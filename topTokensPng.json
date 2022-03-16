@@ -1,0 +1,2814 @@
+{
+  "data": {
+    "pangolinFactories": [
+      {
+        "id": "0xefa94DE7a4656D787667C749f7E1223D71E9FD88",
+        "pairCount": 2939,
+        "totalVolumeUSD": "14161360237.79518275952947121199478",
+        "totalVolumeETH": "285115996.4589447504920189349385647"
+      }
+    ],
+    "tokens": [
+      {
+        "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "symbol": "WAVAX",
+        "name": "Wrapped AVAX",
+        "decimals": "18",
+        "tradeVolumeUSD": "13632240351.04104361310013966685467"
+      },
+      {
+        "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+        "symbol": "USDT.e",
+        "name": "Tether USD",
+        "decimals": "6",
+        "tradeVolumeUSD": "3050214490.056593743022092552956224"
+      },
+      {
+        "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+        "symbol": "WETH.e",
+        "name": "Wrapped Ether",
+        "decimals": "18",
+        "tradeVolumeUSD": "2250967634.815373694020914506668676"
+      },
+      {
+        "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+        "symbol": "USDC.e",
+        "name": "USD Coin",
+        "decimals": "6",
+        "tradeVolumeUSD": "1653045319.665875058542460044145142"
+      },
+      {
+        "id": "0x60781c2586d68229fde47564546784ab3faca982",
+        "symbol": "PNG",
+        "name": "Pangolin",
+        "decimals": "18",
+        "tradeVolumeUSD": "1210456962.230720343552534146144821"
+      },
+      {
+        "id": "0xde3a24028580884448a5397872046a019649b084",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": "6",
+        "tradeVolumeUSD": "766037966.4496267110860095747276593"
+      },
+      {
+        "id": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+        "symbol": "ETH",
+        "name": "Ether",
+        "decimals": "18",
+        "tradeVolumeUSD": "755897931.3717052532434928838831777"
+      },
+      {
+        "id": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+        "symbol": "QI",
+        "name": "BENQI",
+        "decimals": "18",
+        "tradeVolumeUSD": "702046052.7539390658216326280504666"
+      },
+      {
+        "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+        "symbol": "DAI.e",
+        "name": "Dai Stablecoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "668708336.2193587518427798544348373"
+      },
+      {
+        "id": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
+        "symbol": "XAVA",
+        "name": "Avalaunch",
+        "decimals": "18",
+        "tradeVolumeUSD": "445608685.2976221159189535957838019"
+      },
+      {
+        "id": "0xba7deebbfc5fa1100fb055a87773e1e99cd3507a",
+        "symbol": "DAI",
+        "name": "Dai Stablecoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "315797887.4746518711520190783308832"
+      },
+      {
+        "id": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
+        "symbol": "PEFI",
+        "name": "PenguinToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "296177939.3291806972046754350062319"
+      },
+      {
+        "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+        "symbol": "WBTC.e",
+        "name": "Wrapped BTC",
+        "decimals": "8",
+        "tradeVolumeUSD": "197642017.3927340473501655803563091"
+      },
+      {
+        "id": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "decimals": "8",
+        "tradeVolumeUSD": "181295098.0664101843354300120803937"
+      },
+      {
+        "id": "0xb3fe5374f67d7a22886a0ee082b2e2f9d2651651",
+        "symbol": "LINK",
+        "name": "ChainLink Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "159393404.7595813074762441717464496"
+      },
+      {
+        "id": "0x5947bb275c521040051d82396192181b413227a3",
+        "symbol": "LINK.e",
+        "name": "Chainlink Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "140959598.6154471419764746776811193"
+      },
+      {
+        "id": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
+        "symbol": "ROCO",
+        "name": "ROCO",
+        "decimals": "18",
+        "tradeVolumeUSD": "128825175.672254662211077492541482"
+      },
+      {
+        "id": "0xc38f41a296a4493ff429f1238e030924a1542e50",
+        "symbol": "SNOB",
+        "name": "Snowball",
+        "decimals": "18",
+        "tradeVolumeUSD": "103031448.2535017056036091840578353"
+      },
+      {
+        "id": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+        "symbol": "SUSHI",
+        "name": "SushiToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "102430037.1846013814619992604468311"
+      },
+      {
+        "id": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+        "symbol": "YAK",
+        "name": "Yak Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "94954126.75386528936182748092126586"
+      },
+      {
+        "id": "0x260bbf5698121eb85e7a74f2e45e16ce762ebe11",
+        "symbol": "UST",
+        "name": "Axelar Wrapped UST",
+        "decimals": "6",
+        "tradeVolumeUSD": "88560853.68505839795168880415307074"
+      },
+      {
+        "id": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+        "symbol": "TIME",
+        "name": "Time",
+        "decimals": "9",
+        "tradeVolumeUSD": "75447498.4705780818757764635728979"
+      },
+      {
+        "id": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
+        "symbol": "TEDDY",
+        "name": "TEDDY",
+        "decimals": "18",
+        "tradeVolumeUSD": "75313137.49068892698214848811367187"
+      },
+      {
+        "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+        "symbol": "MIM",
+        "name": "Magic Internet Money",
+        "decimals": "18",
+        "tradeVolumeUSD": "64633388.12897825434856844563874204"
+      },
+      {
+        "id": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6",
+        "symbol": "JEWEL",
+        "name": "Jewels",
+        "decimals": "18",
+        "tradeVolumeUSD": "54444648.39588658392186073696170873"
+      },
+      {
+        "id": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1",
+        "symbol": "TUNDRA",
+        "name": "TUNDRAToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "54024820.15965347140553956520077597"
+      },
+      {
+        "id": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+        "symbol": "SPELL",
+        "name": "Spell Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "50789937.88516512075555821253912871"
+      },
+      {
+        "id": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
+        "symbol": "CRA",
+        "name": "CRA",
+        "decimals": "18",
+        "tradeVolumeUSD": "37670171.34313974315937438919947995"
+      },
+      {
+        "id": "0x4fbf0429599460d327bd5f55625e30e4fc066095",
+        "symbol": "TSD",
+        "name": "TSD Stablecoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "37052177.60058767230019143392456105"
+      },
+      {
+        "id": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
+        "symbol": "STORM",
+        "name": " STORM Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "36957864.07385130013375825384224112"
+      },
+      {
+        "id": "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9",
+        "symbol": "AAVE",
+        "name": "Aave Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "34680016.5465642308531147779716672"
+      },
+      {
+        "id": "0xf39f9671906d8630812f9d9863bbef5d523c84ab",
+        "symbol": "UNI",
+        "name": "Uniswap",
+        "decimals": "18",
+        "tradeVolumeUSD": "30732480.25663593674374941688737389"
+      },
+      {
+        "id": "0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5",
+        "symbol": "FIRE",
+        "name": "FIRE",
+        "decimals": "18",
+        "tradeVolumeUSD": "30250596.47333608317084145080375915"
+      },
+      {
+        "id": "0xd606199557c8ab6f4cc70bd03facc96ca576f142",
+        "symbol": "GDL",
+        "name": "Gondola",
+        "decimals": "18",
+        "tradeVolumeUSD": "29291139.0483649634034465681025329"
+      },
+      {
+        "id": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca",
+        "symbol": "YAY",
+        "name": "YAY Games",
+        "decimals": "18",
+        "tradeVolumeUSD": "28519187.68326458788103703141593034"
+      },
+      {
+        "id": "0x7f041ce89a2079873693207653b24c15b5e6a293",
+        "symbol": "LOOT",
+        "name": "LOOT",
+        "decimals": "18",
+        "tradeVolumeUSD": "28273270.35331332157469492501102396"
+      },
+      {
+        "id": "0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de",
+        "symbol": "AVE",
+        "name": "Avaware",
+        "decimals": "18",
+        "tradeVolumeUSD": "26902978.73071224104840764292251636"
+      },
+      {
+        "id": "0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985",
+        "symbol": "SPORE",
+        "name": "Spore.Finance",
+        "decimals": "9",
+        "tradeVolumeUSD": "24584698.05686951040293885942315482"
+      },
+      {
+        "id": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+        "symbol": "VSO",
+        "name": "VersoToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "24309015.2036027924830270789834724"
+      },
+      {
+        "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+        "symbol": "JOE",
+        "name": "JoeToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "23197887.13977194414662399841370078"
+      },
+      {
+        "id": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6",
+        "symbol": "AVAI",
+        "name": "AVAI",
+        "decimals": "18",
+        "tradeVolumeUSD": "22992849.42006399921303267329683346"
+      },
+      {
+        "id": "0xec3492a2508ddf4fdc0cd76f31f340b30d1793e6",
+        "symbol": "CLY",
+        "name": "Colony Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "20530143.31175244308597284934421929"
+      },
+      {
+        "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": "6",
+        "tradeVolumeUSD": "19902693.85634615787349692370638385"
+      },
+      {
+        "id": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": "18",
+        "tradeVolumeUSD": "19755025.56531393878365451992473148"
+      },
+      {
+        "id": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+        "symbol": "HUSKY",
+        "name": "Husky",
+        "decimals": "18",
+        "tradeVolumeUSD": "18951164.66677847916257954583163534"
+      },
+      {
+        "id": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
+        "symbol": "gOHM",
+        "name": "Governance OHM",
+        "decimals": "18",
+        "tradeVolumeUSD": "17774314.27144985761825861670323214"
+      },
+      {
+        "id": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+        "symbol": "DYP",
+        "name": "DeFiYieldProtocol",
+        "decimals": "18",
+        "tradeVolumeUSD": "16682380.04121329059399554350330522"
+      },
+      {
+        "id": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
+        "symbol": "AVXT",
+        "name": "Avaxtars Token",
+        "decimals": "6",
+        "tradeVolumeUSD": "16424348.63809319482703376301933706"
+      },
+      {
+        "id": "0x8b1d98a91f853218ddbb066f20b8c63e782e2430",
+        "symbol": "ORCA",
+        "name": "OrcaDAO",
+        "decimals": "18",
+        "tradeVolumeUSD": "15591450.29474653868441032614744239"
+      },
+      {
+        "id": "0x81440c939f2c1e34fc7048e518a637205a632a74",
+        "symbol": "CYCLE",
+        "name": "Cycle Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "15568836.31321211803760919620605468"
+      },
+      {
+        "id": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+        "symbol": "SUSHI.e",
+        "name": "SushiToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "15271101.03883005770262654277676933"
+      },
+      {
+        "id": "0xfa4b6db72a650601e7bd50a0a9f537c9e98311b2",
+        "symbol": "HSHARES",
+        "name": "HERMES Shares",
+        "decimals": "18",
+        "tradeVolumeUSD": "15167571.12244932690845961307017287"
+      },
+      {
+        "id": "0xb15f02f9da8cd1f99e9dd375f21dc96d25ddd82c",
+        "symbol": "HERMES",
+        "name": "HERMES",
+        "decimals": "18",
+        "tradeVolumeUSD": "14463391.10016455205128486593881471"
+      },
+      {
+        "id": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
+        "symbol": "TUS",
+        "name": "Treasure Under Sea",
+        "decimals": "18",
+        "tradeVolumeUSD": "13030578.24432133837043643436431163"
+      },
+      {
+        "id": "0x7c08413cbf02202a1c13643db173f2694e0f73f0",
+        "symbol": "MAXI",
+        "name": "Maximizer",
+        "decimals": "9",
+        "tradeVolumeUSD": "12950490.95264702104024163112787163"
+      },
+      {
+        "id": "0x90842eb834cfd2a1db0b1512b254a18e4d396215",
+        "symbol": "GB",
+        "name": "Good Bridging",
+        "decimals": "9",
+        "tradeVolumeUSD": "12627358.42130030437265856425050825"
+      },
+      {
+        "id": "0x99519acb025a0e0d44c3875a4bbf03af65933627",
+        "symbol": "YFI",
+        "name": "yearn.finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "12423320.06653186557506629458050232"
+      },
+      {
+        "id": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+        "symbol": "VEE",
+        "name": "Vee",
+        "decimals": "18",
+        "tradeVolumeUSD": "12380963.24597000711695370786732939"
+      },
+      {
+        "id": "0x9e037de681cafa6e661e6108ed9c2bd1aa567ecd",
+        "symbol": "WALBT",
+        "name": "Wrapped AllianceBlock Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "12283993.38018989689734993248475782"
+      },
+      {
+        "id": "0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6",
+        "symbol": "SHERPA",
+        "name": "Sherpa",
+        "decimals": "18",
+        "tradeVolumeUSD": "11908296.11763052727853790981887988"
+      },
+      {
+        "id": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+        "symbol": "DCAU",
+        "name": "Dragon Crypto Aurum",
+        "decimals": "18",
+        "tradeVolumeUSD": "11673621.45219759682931133083153437"
+      },
+      {
+        "id": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+        "symbol": "KLO",
+        "name": "Kalao Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "10542185.90846783143269502759463463"
+      },
+      {
+        "id": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf",
+        "symbol": "ZABU",
+        "name": "ZABU Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "8777407.533481910068581169744450083"
+      },
+      {
+        "id": "0x7086e045b78e1e72f741f25231c08d238812cf8a",
+        "symbol": "RACEX",
+        "name": "RaceX",
+        "decimals": "18",
+        "tradeVolumeUSD": "8283894.202484267143638269720046358"
+      },
+      {
+        "id": "0xce2fbed816e320258161ced52c2d0cebcdfd8136",
+        "symbol": "BRIBE",
+        "name": "Police & Thief Game - BRIBE",
+        "decimals": "18",
+        "tradeVolumeUSD": "7973353.082087247994261021502279606"
+      },
+      {
+        "id": "0x9f87c6c30f4b23c7b51aa7465a9e0a836514700d",
+        "symbol": "TERRA",
+        "name": "AVATerra Finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "7886119.714910875372266693402489987"
+      },
+      {
+        "id": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+        "symbol": "AMPL",
+        "name": "Ampleforth secured by Meter Passport",
+        "decimals": "9",
+        "tradeVolumeUSD": "7825095.467302672331681823632172305"
+      },
+      {
+        "id": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+        "symbol": "TUSD",
+        "name": "TrueUSD",
+        "decimals": "18",
+        "tradeVolumeUSD": "7239584.344947496549666697367252822"
+      },
+      {
+        "id": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+        "symbol": "LYD",
+        "name": "LydiaFinance Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "7016362.490365234741599389936322707"
+      },
+      {
+        "id": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
+        "symbol": "SHIBX",
+        "name": "SHIBAVAX",
+        "decimals": "18",
+        "tradeVolumeUSD": "6503314.41343830725203923923863348"
+      },
+      {
+        "id": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
+        "symbol": "AVME",
+        "name": "AVME",
+        "decimals": "18",
+        "tradeVolumeUSD": "6288340.005216977309882390336781659"
+      },
+      {
+        "id": "0xb3f52c360201201d366efd2cda4db78e00cb9d5d",
+        "symbol": "LYK",
+        "name": "Luyuka",
+        "decimals": "18",
+        "tradeVolumeUSD": "5899842.465862597280304687226520956"
+      },
+      {
+        "id": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+        "symbol": "AAVE.e",
+        "name": "Aave Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "5843231.377416431352887059819128416"
+      },
+      {
+        "id": "0x0592af5414f2f8d90a5ae3c25e937804d3965c87",
+        "symbol": "HOOP",
+        "name": "Hoopoe",
+        "decimals": "18",
+        "tradeVolumeUSD": "5154264.404269480916207368590496378"
+      },
+      {
+        "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+        "symbol": "sAVAX",
+        "name": "Staked AVAX",
+        "decimals": "18",
+        "tradeVolumeUSD": "4944906.845398459392253324183696155"
+      },
+      {
+        "id": "0xfca54c64bc44ce2e72d621b6ed34981e53b66cae",
+        "symbol": "CORN",
+        "name": "FarmersOnly's Corn Coin",
+        "decimals": "18",
+        "tradeVolumeUSD": "4756165.009767555465823883054375684"
+      },
+      {
+        "id": "0xbd100d061e120b2c67a24453cf6368e63f1be056",
+        "symbol": "iDYP",
+        "name": "iDeFiYieldProtocol",
+        "decimals": "18",
+        "tradeVolumeUSD": "4753216.683848884358823586499471823"
+      },
+      {
+        "id": "0x4480b4ddfb15fe6518817ef024d8b493aff2db54",
+        "symbol": "BIRD",
+        "name": "BirdToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "4749162.079754559922851766478299298"
+      },
+      {
+        "id": "0x120ad3e5a7c796349e591f1570d9f7980f4ea9cb",
+        "symbol": "LUNA",
+        "name": "Axelar Wrapped LUNA",
+        "decimals": "6",
+        "tradeVolumeUSD": "4658696.403919464917075007879268103"
+      },
+      {
+        "id": "0x264c1383ea520f73dd837f915ef3a732e204a493",
+        "symbol": "BNB",
+        "name": "Binance",
+        "decimals": "18",
+        "tradeVolumeUSD": "4038238.116655805409524856898678482"
+      },
+      {
+        "id": "0xea6887e4a9cda1b77e70129e5fba830cdb5cddef",
+        "symbol": "IMX.a",
+        "name": "IMX@avalanche",
+        "decimals": "18",
+        "tradeVolumeUSD": "3981275.005281747148736713736553214"
+      },
+      {
+        "id": "0x3509f19581afedeff07c53592bc0ca84e4855475",
+        "symbol": "xUSD",
+        "name": "xDoller Stablecoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "3929767.532139239045301219889053522"
+      },
+      {
+        "id": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
+        "symbol": "WET",
+        "name": "Weble Ecosystem Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "3925397.422885437412530831598841158"
+      },
+      {
+        "id": "0xc7f4debc8072e23fe9259a5c0398326d8efb7f5c",
+        "symbol": "HeC",
+        "name": "HeroesChained",
+        "decimals": "18",
+        "tradeVolumeUSD": "3881484.769735695426622876170969927"
+      },
+      {
+        "id": "0x8ae8be25c23833e0a01aa200403e826f611f9cd2",
+        "symbol": "CRAFT",
+        "name": "CRAFT",
+        "decimals": "18",
+        "tradeVolumeUSD": "3844137.959490814457410628787695578"
+      },
+      {
+        "id": "0x4960bc6032351ab87627b8f36b37b4938a44c7ef",
+        "symbol": "RICH",
+        "name": "RICH",
+        "decimals": "18",
+        "tradeVolumeUSD": "3677679.098609932864760368878898325"
+      },
+      {
+        "id": "0x9e3ca00f2d4a9e5d4f0add0900de5f15050812cf",
+        "symbol": "NFTD",
+        "name": "NFTrade Token [via ChainPort.io]",
+        "decimals": "18",
+        "tradeVolumeUSD": "3648965.734753839055103996617521975"
+      },
+      {
+        "id": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+        "symbol": "PTP",
+        "name": "Platypus",
+        "decimals": "18",
+        "tradeVolumeUSD": "3440609.100168998049653514462131424"
+      },
+      {
+        "id": "0xbe6d6323ea233fd1dbe1ff66c5252170c69fb6c7",
+        "symbol": "ZUBAX",
+        "name": "ZUBAX Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "3416148.578222299658448432056073625"
+      },
+      {
+        "id": "0x938fe3788222a74924e062120e7bfac829c719fb",
+        "symbol": "APEIN",
+        "name": "Ape In",
+        "decimals": "18",
+        "tradeVolumeUSD": "3373515.504321840048984132041312458"
+      },
+      {
+        "id": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+        "symbol": "HCT",
+        "name": "Hurricane Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "3321849.772137413359366921856770945"
+      },
+      {
+        "id": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+        "symbol": "UNI.e",
+        "name": "Uniswap",
+        "decimals": "18",
+        "tradeVolumeUSD": "3288224.185800760068556742868913221"
+      },
+      {
+        "id": "0xf3ec49acb3084618121741e4bbb20996d383e9b2",
+        "symbol": "KING",
+        "name": "KING",
+        "decimals": "18",
+        "tradeVolumeUSD": "3024333.557415883944461963680000031"
+      },
+      {
+        "id": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+        "symbol": "INSUR",
+        "name": "Avalanche INSUR Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "2945229.027235099977971457265323237"
+      },
+      {
+        "id": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
+        "symbol": "BOOFI",
+        "name": "Boo Finance Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "2884668.918698352046326457499726385"
+      },
+      {
+        "id": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b",
+        "symbol": "WOW",
+        "name": "WOWswap",
+        "decimals": "18",
+        "tradeVolumeUSD": "2727898.602075743655039833824064658"
+      },
+      {
+        "id": "0xf32398dae246c5f672b52a54e9b413dffcae1a44",
+        "symbol": "KACY",
+        "name": "Kassandra",
+        "decimals": "18",
+        "tradeVolumeUSD": "2698585.421818413724153317141750451"
+      },
+      {
+        "id": "0x00ee200df31b869a321b10400da10b561f3ee60d",
+        "symbol": "ACRE",
+        "name": "Arable Protocol",
+        "decimals": "18",
+        "tradeVolumeUSD": "2647354.322353402575136732823563211"
+      },
+      {
+        "id": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+        "symbol": "SWAP.e",
+        "name": "TrustSwap Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "2623098.542718161781000374564091999"
+      },
+      {
+        "id": "0xd9702f5e3b0eb7452967cb82529776d672bdc03f",
+        "symbol": "NEKO",
+        "name": "Lucky Cat",
+        "decimals": "8",
+        "tradeVolumeUSD": "2569040.671169677032710834461273612"
+      },
+      {
+        "id": "0x9fda7ceec4c18008096c2fe2b85f05dc300f94d0",
+        "symbol": "MFI",
+        "name": "MarginSwap",
+        "decimals": "18",
+        "tradeVolumeUSD": "2310878.361643330011326686683286929"
+      },
+      {
+        "id": "0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50",
+        "symbol": "aaBLOCK",
+        "name": "Blocknet",
+        "decimals": "8",
+        "tradeVolumeUSD": "2078473.336705680639201489849373073"
+      },
+      {
+        "id": "0x0f577433bf59560ef2a79c124e9ff99fca258948",
+        "symbol": "MONEY",
+        "name": "Moremoney USD",
+        "decimals": "18",
+        "tradeVolumeUSD": "1989002.433658333310932861917173265"
+      },
+      {
+        "id": "0x595c8481c48894771ce8fade54ac6bf59093f9e8",
+        "symbol": "GAJ",
+        "name": "PolyGaj Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "1954499.918637030790788643148479366"
+      },
+      {
+        "id": "0xbca7f1998dc9ffb70b086543a808960a460abca7",
+        "symbol": "KITTY",
+        "name": "KITTY",
+        "decimals": "18",
+        "tradeVolumeUSD": "1891657.855899736820824778354523521"
+      },
+      {
+        "id": "0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4",
+        "symbol": "EVRT",
+        "name": "Everest Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "1865211.372022827141595364108128118"
+      },
+      {
+        "id": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
+        "symbol": "RUGPULL",
+        "name": "RUGPULL",
+        "decimals": "18",
+        "tradeVolumeUSD": "1782531.906603663842590426592308558"
+      },
+      {
+        "id": "0x89176d15a1022431ae856186d77a975d152adfaf",
+        "symbol": "XED",
+        "name": "AVAXED",
+        "decimals": "18",
+        "tradeVolumeUSD": "1774799.132448105601445206429267967"
+      },
+      {
+        "id": "0xf57b80a574297892b64e9a6c997662889b04a73a",
+        "symbol": "EXP",
+        "name": "EXPToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "1728509.178883035176407336069036162"
+      },
+      {
+        "id": "0x411491859864797792308723fc417f11bba18d1b",
+        "symbol": "CYF",
+        "name": "Crypto Yield Focus",
+        "decimals": "18",
+        "tradeVolumeUSD": "1714825.715194095335348540631056608"
+      },
+      {
+        "id": "0x4735721ed62713e3a141c939f4aa55ca8ad5f66a",
+        "symbol": "CHIHUA",
+        "name": "Chihuahuax",
+        "decimals": "18",
+        "tradeVolumeUSD": "1700686.855414941714715945237559337"
+      },
+      {
+        "id": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
+        "symbol": "TRYB",
+        "name": "BiLira",
+        "decimals": "6",
+        "tradeVolumeUSD": "1648552.304334907566811826518640718"
+      },
+      {
+        "id": "0x488f73cddda1de3664775ffd91623637383d6404",
+        "symbol": "YTS",
+        "name": "YetiSwap",
+        "decimals": "18",
+        "tradeVolumeUSD": "1611051.089990014629323563010138663"
+      },
+      {
+        "id": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": "18",
+        "tradeVolumeUSD": "1550606.097820727780026889683590047"
+      },
+      {
+        "id": "0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf",
+        "symbol": "CNR",
+        "name": "Canary",
+        "decimals": "18",
+        "tradeVolumeUSD": "1548514.401187666748332984585319381"
+      },
+      {
+        "id": "0x783c08b5f26e3daf8c4681f3bf49844e425b6393",
+        "symbol": "AUSD",
+        "name": "Avaware USD",
+        "decimals": "18",
+        "tradeVolumeUSD": "1546177.098119288387467452583913631"
+      },
+      {
+        "id": "0xef4988cbe89316fa12650dcc036be2b242895306",
+        "symbol": "BAMBOO",
+        "name": "BambooToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "1460306.987934069770769127417520526"
+      },
+      {
+        "id": "0x94d649e017625de1aa04733aa046de0161df18ef",
+        "symbol": "KSHARE",
+        "name": "King Shares",
+        "decimals": "18",
+        "tradeVolumeUSD": "1386460.424645206937682217025550219"
+      },
+      {
+        "id": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+        "symbol": "OOE",
+        "name": "OpenOcean",
+        "decimals": "18",
+        "tradeVolumeUSD": "1369377.801138137275663443545034323"
+      },
+      {
+        "id": "0x7bf4ca9aec25adaaf7278eedbe959d81893e314f",
+        "symbol": "MINT",
+        "name": "MINT Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "1345695.895513316108441784530581889"
+      },
+      {
+        "id": "0xd962e6e7d945fbfecf35184da5774f653f5cd5fb",
+        "symbol": "Avakita",
+        "name": "@Avakita",
+        "decimals": "9",
+        "tradeVolumeUSD": "1325420.26893311442953271341855427"
+      },
+      {
+        "id": "0xab592d197acc575d16c3346f4eb70c703f308d1e",
+        "symbol": "FEED",
+        "name": "chikn feed",
+        "decimals": "18",
+        "tradeVolumeUSD": "1308391.046343476943714175652272495"
+      },
+      {
+        "id": "0xa1144a6a1304bd9cbb16c800f7a867508726566e",
+        "symbol": "BAG",
+        "name": "Baguette",
+        "decimals": "18",
+        "tradeVolumeUSD": "1284481.564843673563381263252838639"
+      },
+      {
+        "id": "0x96d58f4646e988c236a4d2bf57a0468e16e2ddfc",
+        "symbol": "$GREASE",
+        "name": "$GREASE",
+        "decimals": "18",
+        "tradeVolumeUSD": "1221438.376873354091468090617886105"
+      },
+      {
+        "id": "0x1db749847c4abb991d8b6032102383e6bfd9b1c7",
+        "symbol": "DON",
+        "name": "Dogeon Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "1211719.86443942099122380073883971"
+      },
+      {
+        "id": "0xf03dccaec9a28200a6708c686cf0b8bf26ddc356",
+        "symbol": "YDR",
+        "name": "YDragon",
+        "decimals": "18",
+        "tradeVolumeUSD": "1183649.305823737697820126711647126"
+      },
+      {
+        "id": "0xbc6f589171d6d66eb44ebcc92dffb570db4208da",
+        "symbol": "wave",
+        "name": "wave token",
+        "decimals": "18",
+        "tradeVolumeUSD": "1123068.629779499950648477847609608"
+      },
+      {
+        "id": "0xe553df36dab163d112a056274fc438d4fb54b3e2",
+        "symbol": "DUTCH",
+        "name": "DutchFinance Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "1116078.302565076342800904437106086"
+      },
+      {
+        "id": "0x1f1fe1ef06ab30a791d6357fdf0a7361b39b1537",
+        "symbol": "SFI",
+        "name": "sled.finance",
+        "decimals": "9",
+        "tradeVolumeUSD": "1115969.219310018486433929267961235"
+      },
+      {
+        "id": "0xae9d2385ff2e2951dd4fa061e74c4d3dedd24347",
+        "symbol": "TOK",
+        "name": "TOK",
+        "decimals": "8",
+        "tradeVolumeUSD": "1101952.721840014478671278905439717"
+      },
+      {
+        "id": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+        "symbol": "ELE",
+        "name": "Eleven.finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "1098182.821620789506035644941035449"
+      },
+      {
+        "id": "0x107109752c9846bbaff2c3ab96794e2cecbfdbb6",
+        "symbol": "AYIELD",
+        "name": "AYIELD TOKEN",
+        "decimals": "18",
+        "tradeVolumeUSD": "977476.8158798604944305366296416521"
+      },
+      {
+        "id": "0x0fec6d8a84a85b79a1ffe0e28c1902e08b653efe",
+        "symbol": "HOOP",
+        "name": "Hoopoe Ventures",
+        "decimals": "18",
+        "tradeVolumeUSD": "973784.6513454968229012347643739073"
+      },
+      {
+        "id": "0xfc108f21931576a21d0b4b301935dac80d9e5086",
+        "symbol": "IronICE",
+        "name": "Iron Finance ICE Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "958378.3476928489878103931069933685"
+      },
+      {
+        "id": "0x3f1860ae3f7eda310cd945acf59045774db5c580",
+        "symbol": "FIAT",
+        "name": "FIAT",
+        "decimals": "18",
+        "tradeVolumeUSD": "942121.0965973944847682993782258033"
+      },
+      {
+        "id": "0xdb333724fae72b4253fc3d44c8270cbbc86d147b",
+        "symbol": "CABAG",
+        "name": "Cabbage.Cash",
+        "decimals": "18",
+        "tradeVolumeUSD": "940627.1043054737150951861453330945"
+      },
+      {
+        "id": "0x885d748c00a279b67a7749ec6b03301700dd0455",
+        "symbol": "MAXI",
+        "name": "Maximus",
+        "decimals": "18",
+        "tradeVolumeUSD": "922905.4982334216072835489523725061"
+      },
+      {
+        "id": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+        "symbol": "ELK",
+        "name": "Elk",
+        "decimals": "18",
+        "tradeVolumeUSD": "908354.3321505973723513730112286104"
+      },
+      {
+        "id": "0xf891214fdcf9cdaa5fdc42369ee4f27f226adad6",
+        "symbol": "IME",
+        "name": "Imperium Empires Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "877649.1834319144585365232297353729"
+      },
+      {
+        "id": "0x37427c72f3534d854ee462d18f42ad5fbe74aa2b",
+        "symbol": "SEED",
+        "name": "SeedToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "874849.9083154395161029651981562929"
+      },
+      {
+        "id": "0x921f99719eb6c01b4b8f0ba7973a7c24891e740a",
+        "symbol": "MAGE",
+        "name": "MetaBrands",
+        "decimals": "18",
+        "tradeVolumeUSD": "844005.8024843623854991473973547214"
+      },
+      {
+        "id": "0x4aca0ad6357b918e3d06bb1a0bcc403619177523",
+        "symbol": "SONIC",
+        "name": "Sonic Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "819865.2711323379604132213236740124"
+      },
+      {
+        "id": "0xc12e249fabe1c5eb7c558e5f50d187687a244e31",
+        "symbol": "BLUE",
+        "name": "Blue Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "791591.5425007656671022421357470281"
+      },
+      {
+        "id": "0x312ee43df66d1fd1ea28e5b28f355da84dca13c2",
+        "symbol": "SWAPXI",
+        "name": "SwapXI Token",
+        "decimals": "12",
+        "tradeVolumeUSD": "761592.680263016573385152285421167"
+      },
+      {
+        "id": "0xe06fba763c2104db5027f57f6a5be0a0d86308af",
+        "symbol": "AKITAX",
+        "name": "AKITAVAX",
+        "decimals": "18",
+        "tradeVolumeUSD": "746274.0980668711285200938756549942"
+      },
+      {
+        "id": "0xe19a1684873fab5fb694cfd06607100a632ff21c",
+        "symbol": "BAVA",
+        "name": "BavaToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "730937.375280126663614362156944792"
+      },
+      {
+        "id": "0x02fe8adc1b58a63ccb1bb8c39930dcedd7cef4db",
+        "symbol": "VOID",
+        "name": "https://twitter.com/AvalancheVoid",
+        "decimals": "18",
+        "tradeVolumeUSD": "722120.2830765088268753085437697139"
+      },
+      {
+        "id": "0x8a1184e8593ca0554cf32dca568567777f43a521",
+        "symbol": "ARA",
+        "name": "Ara Finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "700431.0601851493969266894050929747"
+      },
+      {
+        "id": "0x4c9993c7107495020c2ce9a13d11839f48ecd2e6",
+        "symbol": "VOLTa",
+        "name": "Volta",
+        "decimals": "9",
+        "tradeVolumeUSD": "688362.4012535331958382320021122214"
+      },
+      {
+        "id": "0xb84527d59b6ecb96f433029ecc890d4492c5dce1",
+        "symbol": "TOMB",
+        "name": "TOMB",
+        "decimals": "18",
+        "tradeVolumeUSD": "687143.6184667537537827995974072139"
+      },
+      {
+        "id": "0x1369dba63f5d4e9734f8d2b4ddf0ea7dc2c712e2",
+        "symbol": "DGold",
+        "name": "Dragon Gold Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "651884.8037760980748260983631188361"
+      },
+      {
+        "id": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
+        "symbol": "OH",
+        "name": "Oh! Finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "646435.8236130992949906666045689446"
+      },
+      {
+        "id": "0x60fd06537a41c1c5371950431fb6162f096612a7",
+        "symbol": "GLA",
+        "name": "GlacierDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "631075.8086509586765869723468015429"
+      },
+      {
+        "id": "0x8a9b36393633ad77ceb8aebc7768815627b93557",
+        "symbol": "Sphere Token",
+        "name": "SPHERE.e",
+        "decimals": "18",
+        "tradeVolumeUSD": "604012.6293991064890432513585005347"
+      },
+      {
+        "id": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
+        "symbol": "SB",
+        "name": "Snowbank",
+        "decimals": "9",
+        "tradeVolumeUSD": "595601.9999323815714358996583006784"
+      },
+      {
+        "id": "0xd4d026322c88c2d49942a75dff920fcfbc5614c1",
+        "symbol": "DEP",
+        "name": "DEAPCOIN",
+        "decimals": "18",
+        "tradeVolumeUSD": "565017.3994395699096273143238852517"
+      },
+      {
+        "id": "0x62a4f3280c02c8cc3e9ff984e4aad94f8f7fea26",
+        "symbol": "BABYPangolin",
+        "name": "BABYPangolin",
+        "decimals": "9",
+        "tradeVolumeUSD": "554772.3878870675658164058641771145"
+      },
+      {
+        "id": "0x3eefb18003d033661f84e48360ebecd181a84709",
+        "symbol": "ISA",
+        "name": "Islander",
+        "decimals": "18",
+        "tradeVolumeUSD": "551702.3066812605829854530260121265"
+      },
+      {
+        "id": "0xad4715e16abe7fdb93750788957c061fedc4850c",
+        "symbol": "NEON",
+        "name": "Nodeon",
+        "decimals": "18",
+        "tradeVolumeUSD": "539531.9279573063845830717688430453"
+      },
+      {
+        "id": "0x61db988de7d2084be02804c78218e89645a5dfe0",
+        "symbol": "ICE",
+        "name": "Mammoth ICE",
+        "decimals": "18",
+        "tradeVolumeUSD": "535674.5139110502424541191108881993"
+      },
+      {
+        "id": "0x637afeff75ca669ff92e4570b14d6399a658902f",
+        "symbol": "COOK",
+        "name": "Poly-Peg COOK",
+        "decimals": "18",
+        "tradeVolumeUSD": "534287.5238713301846836223792265051"
+      },
+      {
+        "id": "0xe72c5547b2c66436d4cb9fd674001027a0d83a46",
+        "symbol": "LUAN",
+        "name": "AVALuan",
+        "decimals": "18",
+        "tradeVolumeUSD": "533184.5793811691385494562813096366"
+      },
+      {
+        "id": "0xf44fb887334fa17d2c5c0f970b5d320ab53ed557",
+        "symbol": "START",
+        "name": "BSCstarter",
+        "decimals": "18",
+        "tradeVolumeUSD": "496901.0597239889920435208928202961"
+      },
+      {
+        "id": "0x7f29e7086453ed97283893e763ae0989f4b70f8d",
+        "symbol": "DGC",
+        "name": "DGC Token",
+        "decimals": "6",
+        "tradeVolumeUSD": "485105.6197006487809885076400354843"
+      },
+      {
+        "id": "0x85df51751cf97292511215f4eb8f75b22caee190",
+        "symbol": "aSHIB",
+        "name": "avax SHIBA",
+        "decimals": "9",
+        "tradeVolumeUSD": "474566.6660388788762016391202085105"
+      },
+      {
+        "id": "0xb0a6e056b587d0a85640b39b1cb44086f7a26a1e",
+        "symbol": "ODDZ",
+        "name": "OddzToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "464561.704803383832263591728084112"
+      },
+      {
+        "id": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": "18",
+        "tradeVolumeUSD": "452884.1236300365082981642389415756"
+      },
+      {
+        "id": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a",
+        "symbol": "ORBS",
+        "name": "Orbs",
+        "decimals": "18",
+        "tradeVolumeUSD": "450812.7079938039484187604538896577"
+      },
+      {
+        "id": "0x9a928d7dcd8d7e5cb6860b7768ec2d87b8934267",
+        "symbol": "BAMBOO-V2",
+        "name": "BambooToken v2",
+        "decimals": "18",
+        "tradeVolumeUSD": "448097.8083057677914648106899947969"
+      },
+      {
+        "id": "0x894aa2d0d3e63471c5ffbd22a8a95c8476826cf9",
+        "symbol": "KINS",
+        "name": "PUMPKINS",
+        "decimals": "18",
+        "tradeVolumeUSD": "447537.9269808686139520259594175246"
+      },
+      {
+        "id": "0xddaaad7366b455aff8e7c82940c43ceb5829b604",
+        "symbol": "mYAK",
+        "name": "MiniYAK",
+        "decimals": "12",
+        "tradeVolumeUSD": "423659.0300482115674942090567943305"
+      },
+      {
+        "id": "0x9c8e99eb130aed653ef90fed709d9c3e9cc8b269",
+        "symbol": "HTZ",
+        "name": "Hertz Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "394179.9616248109401878979446257131"
+      },
+      {
+        "id": "0xba4ac71a00499935ecd5406581a9ee3253496f94",
+        "symbol": "CRAFT",
+        "name": "Talecraft",
+        "decimals": "18",
+        "tradeVolumeUSD": "385615.5567269309860819714717475559"
+      },
+      {
+        "id": "0xf124dec273e9541a93f5981294e8f74aeb280ec8",
+        "symbol": "ESKI",
+        "name": "Eski Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "372599.6174690895360811637044673517"
+      },
+      {
+        "id": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+        "symbol": "YFI.e",
+        "name": "yearn.finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "363482.9976508718069888983301936186"
+      },
+      {
+        "id": "0xa0818b489f85579d9c29d75b95b239418c9d8687",
+        "symbol": "EAGLE",
+        "name": "AvaEagle Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "355829.914206244466657676924591599"
+      },
+      {
+        "id": "0x483416eb3afa601b9c6385f63cec0c82b6abf1fb",
+        "symbol": "SKILL",
+        "name": "Skill Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "354910.6163915420032305901367965571"
+      },
+      {
+        "id": "0xd3df6106346ac91ce76d1adf291a68581d3fa782",
+        "symbol": "MNDL",
+        "name": "MNDL Token",
+        "decimals": "6",
+        "tradeVolumeUSD": "351094.4219577540695047335825210607"
+      },
+      {
+        "id": "0x3589126532527718e2bf90b82e0c73fdb824b93c",
+        "symbol": "CORGI",
+        "name": "CORGI",
+        "decimals": "18",
+        "tradeVolumeUSD": "330015.8936228713616514255276415186"
+      },
+      {
+        "id": "0x7b2b702706d9b361dfe3f00bd138c0cfda7fb2cf",
+        "symbol": "PLN",
+        "name": "Pollen",
+        "decimals": "18",
+        "tradeVolumeUSD": "318689.5329257005360517495983187518"
+      },
+      {
+        "id": "0x136acd46c134e8269052c62a67042d6bdedde3c9",
+        "symbol": "MEMO",
+        "name": "MEMOries",
+        "decimals": "9",
+        "tradeVolumeUSD": "309861.3497719604974525097081884777"
+      },
+      {
+        "id": "0xf54cd11595aec3b99d274318446060e24b0d2d33",
+        "symbol": "MERD",
+        "name": "Mermaid",
+        "decimals": "18",
+        "tradeVolumeUSD": "302447.1059733360762353167282049213"
+      },
+      {
+        "id": "0x6fefd97f328342a8a840546a55fdcfee7542f9a8",
+        "symbol": "agEUR",
+        "name": "agEUR",
+        "decimals": "18",
+        "tradeVolumeUSD": "300136.0214086089675081381296882567"
+      },
+      {
+        "id": "0xb67a9374da03d4114a6fb8f0e7f2b82b5cb34ee3",
+        "symbol": "AGF",
+        "name": "Augmented Finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "287343.4135111084281975363496366679"
+      },
+      {
+        "id": "0xc69eba65e87889f0805db717af06797055a0ba07",
+        "symbol": "ncash",
+        "name": "NitroNetwork",
+        "decimals": "18",
+        "tradeVolumeUSD": "284327.4276779981612731151834424746"
+      },
+      {
+        "id": "0x44754455564474a89358b2c2265883df993b12f0",
+        "symbol": "ZEE",
+        "name": "ZeroSwapToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "282815.94893437532365184079046752"
+      },
+      {
+        "id": "0x9d871bd3d730f416d5d06ff8bc17be4119070552",
+        "symbol": "TERRA",
+        "name": "AVATerra Finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "282165.9689791843884312112309364335"
+      },
+      {
+        "id": "0x721c299e6bf7d6a430d9bea3364ea197314bce09",
+        "symbol": "MILK2",
+        "name": "MilkyWay Token by SpaceSwap v2",
+        "decimals": "18",
+        "tradeVolumeUSD": "281837.0505219590985992970329345212"
+      },
+      {
+        "id": "0x15c841043e13ffaa9a99fabea236d40f45615623",
+        "symbol": "BUSINESSES",
+        "name": "$BUSINESSES",
+        "decimals": "18",
+        "tradeVolumeUSD": "277046.9929311563826955218412017755"
+      },
+      {
+        "id": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
+        "symbol": "BUSD.e",
+        "name": "Binance USD",
+        "decimals": "18",
+        "tradeVolumeUSD": "272420.4470619134508593337372643126"
+      },
+      {
+        "id": "0x4abbc3275f8419685657c2dd69b8ca2e26f23f8e",
+        "symbol": "💎",
+        "name": "diamondtoken.world 💎",
+        "decimals": "9",
+        "tradeVolumeUSD": "269860.3063403613257951114700406542"
+      },
+      {
+        "id": "0xee0f5c0c2c8cfb1473d441868c174de3f3736f70",
+        "symbol": "BPNG",
+        "name": "BABYPANGOLIN ",
+        "decimals": "18",
+        "tradeVolumeUSD": "269846.7211812361887489377046362571"
+      },
+      {
+        "id": "0x0fec28d1694914cf3cbf4eda5eebeaf9e7b8e643",
+        "symbol": "ONYX",
+        "name": "ONYX Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "258550.4641270442210701416187950666"
+      },
+      {
+        "id": "0x86bafe5880e41a81692d6d2550ac0b6e092cd597",
+        "symbol": "JEWEL",
+        "name": "DeFi Kingdoms",
+        "decimals": "18",
+        "tradeVolumeUSD": "253589.1314233363999863338862009877"
+      },
+      {
+        "id": "0x95d16b76a4f29dbdb2d9ea2c4d0a31e2a1d830b3",
+        "symbol": "AKBASH",
+        "name": "AKBASH",
+        "decimals": "9",
+        "tradeVolumeUSD": "243375.5616663219295897817151841281"
+      },
+      {
+        "id": "0x214db107654ff987ad859f34125307783fc8e387",
+        "symbol": "FXS",
+        "name": "Frax Share",
+        "decimals": "18",
+        "tradeVolumeUSD": "241259.3737284889852115558923386924"
+      },
+      {
+        "id": "0xf9ca697c3f86b7962f0c1dd3cd7935e11ac04ea9",
+        "symbol": "LUFFYS",
+        "name": " LUFFYS Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "240779.9675109700760810167337006859"
+      },
+      {
+        "id": "0xf69c2fcd9128d49dfa22348c69177f9380438eb8",
+        "symbol": "NFSG",
+        "name": "NFTSoccerGames",
+        "decimals": "6",
+        "tradeVolumeUSD": "222158.9895898030686709747516527349"
+      },
+      {
+        "id": "0x1af2a6e455ecdd2838e1774a55164f706ce18b38",
+        "symbol": "MVX",
+        "name": "MaxVax",
+        "decimals": "9",
+        "tradeVolumeUSD": "220627.2538748022542441797045332859"
+      },
+      {
+        "id": "0x3d918123695a5a643ac9c96dec301911d47aa089",
+        "symbol": "CRAB",
+        "name": "CrabFinance Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "216090.8009858471834296844790055119"
+      },
+      {
+        "id": "0x617724974218a18769020a70162165a539c07e8a",
+        "symbol": "OLIVE",
+        "name": "OliveCash Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "211783.9520782029943338118050543935"
+      },
+      {
+        "id": "0x1157950c64f3bf1bf62a7840c148cf608e724ffc",
+        "symbol": "Hatter",
+        "name": "Hatter",
+        "decimals": "18",
+        "tradeVolumeUSD": "206485.4239122580595850749229208286"
+      },
+      {
+        "id": "0xea1933ecd574019ea5d540f1f4ad54378856d243",
+        "symbol": "aYield",
+        "name": "AYield Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "197352.7698845714788915134897874842"
+      },
+      {
+        "id": "0xf03ab1c1fccbcb470c47f3eb642db31c30d240a4",
+        "symbol": "MUG",
+        "name": "MoonMug",
+        "decimals": "18",
+        "tradeVolumeUSD": "186509.3702557651063079687424054576"
+      },
+      {
+        "id": "0xaf1843657f00f8c048139b7103784fdefc403702",
+        "symbol": "TNGLv3",
+        "name": "TangleV3",
+        "decimals": "9",
+        "tradeVolumeUSD": "181105.4786008309103754620803446906"
+      },
+      {
+        "id": "0x1fe4751d9bdabac8d90067056cb45ab6823d2c12",
+        "symbol": "ARGON",
+        "name": "ArgonToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "180853.7077070299971311769663522471"
+      },
+      {
+        "id": "0x27de370fe0498307e91047c9a60051d53b92114a",
+        "symbol": "GEM",
+        "name": "GEM",
+        "decimals": "18",
+        "tradeVolumeUSD": "179389.8354144193500578606393604808"
+      },
+      {
+        "id": "0x164334ed9e63fbedc8b52e6dbd408af4f051419f",
+        "symbol": "ENXT",
+        "name": "ENXT Token",
+        "decimals": "6",
+        "tradeVolumeUSD": "173075.0906748550805112097421783624"
+      },
+      {
+        "id": "0x7f64a65c0d38d4150d73178d869663dcce4c0141",
+        "symbol": "SNOW",
+        "name": "SnowToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "170714.7661931417812683515935632369"
+      },
+      {
+        "id": "0xd9de1bfb3bb846c9441ecbac076d0e9bdfcc4373",
+        "symbol": "CRAFT",
+        "name": "CRAFT",
+        "decimals": "18",
+        "tradeVolumeUSD": "168245.5327316950628053834231171432"
+      },
+      {
+        "id": "0x2239460ae2534578f57171411cf1716b36984c1e",
+        "symbol": "GRIMEX",
+        "name": "SpaceGrime",
+        "decimals": "18",
+        "tradeVolumeUSD": "168133.9284480383765311189843968247"
+      },
+      {
+        "id": "0xcf98695af7eacd36e036dedb6e192c1c9c7e66d6",
+        "symbol": "🐆",
+        "name": "snowleopard",
+        "decimals": "9",
+        "tradeVolumeUSD": "167014.1600879699042422782209258539"
+      },
+      {
+        "id": "0xd5ac41b80b49301079499b2161dd500777c483ea",
+        "symbol": "AVAXMOON",
+        "name": "AVAXMOON",
+        "decimals": "18",
+        "tradeVolumeUSD": "153282.6220429599110163372505778968"
+      },
+      {
+        "id": "0x97cd1cfe2ed5712660bb6c14053c0ecb031bff7d",
+        "symbol": "RAI",
+        "name": "Rai Reflex Index",
+        "decimals": "18",
+        "tradeVolumeUSD": "145994.691564177534470042080908881"
+      },
+      {
+        "id": "0xe7dc0fe162331b6eab66b7cfa647260836a061b6",
+        "symbol": "XRISE",
+        "name": "AvaxRise",
+        "decimals": "9",
+        "tradeVolumeUSD": "141517.2721283204834583011491008695"
+      },
+      {
+        "id": "0xc1d02e488a9ce2481bfdcd797d5373dd2e70a9c2",
+        "symbol": "SHAKE",
+        "name": "SHAKE token by SpaceSwap v2",
+        "decimals": "18",
+        "tradeVolumeUSD": "140148.7774276964363712046692813584"
+      },
+      {
+        "id": "0xb9cd294a96e14b0d7b855e36385e8292f428c289",
+        "symbol": "AvaMax",
+        "name": "PolyMaxClub",
+        "decimals": "18",
+        "tradeVolumeUSD": "139927.941034074896886757376232343"
+      },
+      {
+        "id": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+        "symbol": "BIFI",
+        "name": "beefy.finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "137590.3812710821384513275868738089"
+      },
+      {
+        "id": "0x1fc69341073158d313f912477c699ec3b5a9d6a8",
+        "symbol": "WOLF",
+        "name": " WOLF Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "137464.5599283418258058553422706826"
+      },
+      {
+        "id": "0x7ed38a3f65f68a59f24f165515decc246678640b",
+        "symbol": "🍑",
+        "name": "Vagina",
+        "decimals": "18",
+        "tradeVolumeUSD": "134644.0444536898443574090129736313"
+      },
+      {
+        "id": "0x1d5ce5635871c1d84b4d045b7db0cb5343919f8f",
+        "symbol": "TRIFLE",
+        "name": "BerryFactory Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "134327.2770432957403763333912376081"
+      },
+      {
+        "id": "0xb24649cd523a7fa0752389811c25e83b16d201be",
+        "symbol": "SafeGalaxyA",
+        "name": "SafeGalaxyAVAX",
+        "decimals": "9",
+        "tradeVolumeUSD": "134191.8345944120800548870138413252"
+      },
+      {
+        "id": "0xe0ce60af0850bf54072635e66e79df17082a1109",
+        "symbol": "ICE",
+        "name": "IceToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "133296.8615277814304117023365841539"
+      },
+      {
+        "id": "0x0ddb4a7d0c86c41815ba8880c766376ea57ec2a8",
+        "symbol": "WING",
+        "name": "Zeal's Wing Coin",
+        "decimals": "18",
+        "tradeVolumeUSD": "127730.1698759945522661927807944001"
+      },
+      {
+        "id": "0xd9d90f882cddd6063959a9d837b05cb748718a05",
+        "symbol": "MORE",
+        "name": "More Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "127271.9350588544194935011936157304"
+      },
+      {
+        "id": "0x90535d931ed9ecd3cbb2e07c995dbeb1effa5006",
+        "symbol": "🍌",
+        "name": "Penis",
+        "decimals": "18",
+        "tradeVolumeUSD": "125925.9507035195517930846121591571"
+      },
+      {
+        "id": "0x74a68215aedf59f317a23e87c13b848a292f27a4",
+        "symbol": "XPOW",
+        "name": "XPower",
+        "decimals": "0",
+        "tradeVolumeUSD": "115359.0960358854974559931661182908"
+      },
+      {
+        "id": "0xd60effed653f3f1b69047f2d2dc4e808a548767b",
+        "symbol": "UFARM",
+        "name": "UNIFARM Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "114951.4342083253877766268021030217"
+      },
+      {
+        "id": "0x97263bd82a93a410454fd135e04d435237512b79",
+        "symbol": "SILVER",
+        "name": "SmitheryFarms Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "110754.3584922179321887539138596618"
+      },
+      {
+        "id": "0x9e7890b2e2de38d764a29b0de1e2b9b37c90ddb9",
+        "symbol": "BMF",
+        "name": "BillMaher.Finance",
+        "decimals": "9",
+        "tradeVolumeUSD": "110376.0739658754684686087717462349"
+      },
+      {
+        "id": "0x69a61f38df59cbb51962e69c54d39184e21c27ec",
+        "symbol": "PARTY",
+        "name": "PARTY",
+        "decimals": "18",
+        "tradeVolumeUSD": "99731.93441917887242470515810286628"
+      },
+      {
+        "id": "0xe6b430e688b76ac89588c587cf8d35e96df88b15",
+        "symbol": "FB",
+        "name": "Frostbite DAO (3,3)",
+        "decimals": "18",
+        "tradeVolumeUSD": "97910.87081381505239361032542085948"
+      },
+      {
+        "id": "0x3ab71ca6da13e50ab4966e3a0566d1b6b118c4ae",
+        "symbol": "ARFV2",
+        "name": "BostonTerrier",
+        "decimals": "9",
+        "tradeVolumeUSD": "95600.48361221952617051254518619648"
+      },
+      {
+        "id": "0x7f7d4657019043e37635c280119e97787022ab71",
+        "symbol": "CEO",
+        "name": "Tycoon CEO",
+        "decimals": "9",
+        "tradeVolumeUSD": "95579.71318219940340962555652246781"
+      },
+      {
+        "id": "0x5fc82533c914e1f91ac640582891a3b32b70be8e",
+        "symbol": "LOUIS",
+        "name": "Dogün",
+        "decimals": "18",
+        "tradeVolumeUSD": "91782.99158603430036532642110833043"
+      },
+      {
+        "id": "0x4db1a96ee90a4fb08e0489f55bfaf5f5af294a13",
+        "symbol": "OSIR",
+        "name": "osiris.holdings",
+        "decimals": "9",
+        "tradeVolumeUSD": "91521.38025212015332154995108030714"
+      },
+      {
+        "id": "0x474bb79c3e8e65dcc6df30f9de68592ed48bbfdb",
+        "symbol": "zUSDC",
+        "name": "zUSDC",
+        "decimals": "6",
+        "tradeVolumeUSD": "91162.71378455811545501147274475301"
+      },
+      {
+        "id": "0x06534dbd3e383b553d15d260387af5ffa6568783",
+        "symbol": "EGG",
+        "name": "Egg Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "90664.90607087120178612576794523485"
+      },
+      {
+        "id": "0x76076880e1ebbce597e6e15c47386cd34de4930f",
+        "symbol": "OPUS",
+        "name": "Canopus",
+        "decimals": "18",
+        "tradeVolumeUSD": "90047.6182500340567768980554467675"
+      },
+      {
+        "id": "0x8d4a8522f2fb040d4755757c05d99976c0d29fce",
+        "symbol": "TJOMA",
+        "name": "Tjoma.Finance",
+        "decimals": "9",
+        "tradeVolumeUSD": "89336.06238421562822466130433703588"
+      },
+      {
+        "id": "0x37782bb88e6cb17538995c2ae09920abe379bdeb",
+        "symbol": "ENGLISH",
+        "name": "DutchFinance Token2",
+        "decimals": "18",
+        "tradeVolumeUSD": "88261.20955243353462334064382785686"
+      },
+      {
+        "id": "0xf6f3eea905ac1da6f6dd37d06810c6fcb0ef5183",
+        "symbol": "zETH",
+        "name": "zETH",
+        "decimals": "18",
+        "tradeVolumeUSD": "86488.66206835702226100835592854257"
+      },
+      {
+        "id": "0x467726f4a18d304457ba2436539ae259087ab8b4",
+        "symbol": "KEBAB",
+        "name": "KEBAB",
+        "decimals": "18",
+        "tradeVolumeUSD": "85090.99488929512005246189178607549"
+      },
+      {
+        "id": "0x27dd167375ab6e9916a9dbdb2eed02ebd9604082",
+        "symbol": "AFARMER",
+        "name": "LittleFarmer",
+        "decimals": "18",
+        "tradeVolumeUSD": "82322.51585087711394854289447324358"
+      },
+      {
+        "id": "0x14283754f40f79a966aded84f9803b0b65cca1bb",
+        "symbol": "SE",
+        "name": "SELENIUM",
+        "decimals": "18",
+        "tradeVolumeUSD": "82226.46191178526085296059377423916"
+      },
+      {
+        "id": "0x631e98a12d41a71685eebd37754fe833f13f0b72",
+        "symbol": "FRG",
+        "name": "Fargo",
+        "decimals": "9",
+        "tradeVolumeUSD": "82053.41454167408512314803956834768"
+      },
+      {
+        "id": "0x33f69872ea30c93438de5abb427640a402e476e0",
+        "symbol": "MOZZA",
+        "name": "Mozza",
+        "decimals": "18",
+        "tradeVolumeUSD": "82009.92159054038949882128623508734"
+      },
+      {
+        "id": "0xf1b0f6df4fc3710b3497c34b0ee366099054add8",
+        "symbol": "VIKING",
+        "name": "AVAX-Viking",
+        "decimals": "18",
+        "tradeVolumeUSD": "80709.989647166572953460441616837"
+      },
+      {
+        "id": "0xadedadf66d1f6d09a148904199e7b59a8fe417ff",
+        "symbol": "SU",
+        "name": "Subzero DAO (3,3)",
+        "decimals": "18",
+        "tradeVolumeUSD": "77825.92680268414985136484934236481"
+      },
+      {
+        "id": "0x8cbf926e522f2cb8b35d61bb4d5a6f1dbc246ef2",
+        "symbol": "EMIN",
+        "name": "safeEMIN",
+        "decimals": "18",
+        "tradeVolumeUSD": "76474.32077143565060958643426969102"
+      },
+      {
+        "id": "0xf645334c4cc4740120c1210cfee03c204c4152c2",
+        "symbol": "AVP",
+        "name": "@avaxpepes",
+        "decimals": "9",
+        "tradeVolumeUSD": "76340.43947786128717234027664782403"
+      },
+      {
+        "id": "0x6ed5fc2f71041f3dcc1c7db2836ef40824d2792e",
+        "symbol": "IKARIS",
+        "name": "EternalFinance Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "76153.29910653244213214428780739272"
+      },
+      {
+        "id": "0x88dc0ca6bcc47c37343bb0560d7616a4be6986fe",
+        "symbol": "CELX",
+        "name": "CELX",
+        "decimals": "0",
+        "tradeVolumeUSD": "75720.96238933418001568246235865193"
+      },
+      {
+        "id": "0x5bcde17c50652ad6148c970f10bf06647137a7e4",
+        "symbol": "LOA",
+        "name": "LOAlexandria",
+        "decimals": "18",
+        "tradeVolumeUSD": "73129.07364325916831624304661107563"
+      },
+      {
+        "id": "0xe440bc4339d1a28dccac889d5ac4260129aef423",
+        "symbol": "LUAN",
+        "name": "AVALuan",
+        "decimals": "18",
+        "tradeVolumeUSD": "72772.08963543069108749655243365457"
+      },
+      {
+        "id": "0x3b51159cad87bdef93092a05e0385056b0ae109d",
+        "symbol": "XAVA",
+        "name": "Avalaunch Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "72687.92224655515418546153234729805"
+      },
+      {
+        "id": "0xc979e70611d997aa109528c6a9aa73d82eaa2881",
+        "symbol": "OBERON",
+        "name": "Oberon",
+        "decimals": "18",
+        "tradeVolumeUSD": "71433.4313987931760398780400229169"
+      },
+      {
+        "id": "0xc9e6972d5037e2c7d5b598ce962ee3fc6766107e",
+        "symbol": "Dolphin",
+        "name": "Dolphin Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "69525.87932030675528886501819742207"
+      },
+      {
+        "id": "0x4b322765d761984c0f9e72200b62a9b445f38cac",
+        "symbol": "DOLLA",
+        "name": "$dolla",
+        "decimals": "18",
+        "tradeVolumeUSD": "69326.37700123756226468553386908343"
+      },
+      {
+        "id": "0xa66979963605ad9c3d2d91e20f8090347f2770b9",
+        "symbol": "$SnowFlake",
+        "name": "ArcticTundra",
+        "decimals": "9",
+        "tradeVolumeUSD": "67705.29703401527876927073974210382"
+      },
+      {
+        "id": "0x85c7caa104f14c513e5037031e730ee5ff2c17a6",
+        "symbol": "AVAXPUMP",
+        "name": "AvaxPump",
+        "decimals": "18",
+        "tradeVolumeUSD": "66328.91024273888146098396125865581"
+      },
+      {
+        "id": "0xb147656604217a03fe2c73c4838770df8d9d21b8",
+        "symbol": "BLIZZ",
+        "name": "Blizzard",
+        "decimals": "18",
+        "tradeVolumeUSD": "65202.9238654564698788061396934369"
+      },
+      {
+        "id": "0x9610b01aaa57ec026001f7ec5cface51bfea0ba6",
+        "symbol": "BUSD",
+        "name": "Binance-Peg BUSD Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "65044.56058050931378327376231273094"
+      },
+      {
+        "id": "0xd8b9f9b8dd11b9f6a1e0c7da6a2690720fdc8da3",
+        "symbol": "OPMN",
+        "name": "OpenMoon",
+        "decimals": "18",
+        "tradeVolumeUSD": "64196.63404103469178965379963450131"
+      },
+      {
+        "id": "0xd38abcbac4581db31aa7493164ffa339f97e6016",
+        "symbol": "PRINTER",
+        "name": "AVAXPrinter",
+        "decimals": "9",
+        "tradeVolumeUSD": "63385.55525224844457983069881462039"
+      },
+      {
+        "id": "0xd501281565bf7789224523144fe5d98e8b28f267",
+        "symbol": "1INCH.e",
+        "name": "1INCH Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "62855.14342042537238720545395780909"
+      },
+      {
+        "id": "0x6198df99875d7f095a9120e909742e00a848adff",
+        "symbol": "xTDOGE",
+        "name": "xTerminator Doge",
+        "decimals": "9",
+        "tradeVolumeUSD": "61654.48051351894983270549984067702"
+      },
+      {
+        "id": "0x2115f83922ad1d732bbd3b3a255f861d6b95079f",
+        "symbol": "LAYA",
+        "name": "Himalaya Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "61207.10350161917507074194108288007"
+      },
+      {
+        "id": "0x999c891262ce01f1c1afd1d46260e4c1e508b243",
+        "symbol": "GIVE",
+        "name": "Give",
+        "decimals": "18",
+        "tradeVolumeUSD": "59691.97923971526656293272716746152"
+      },
+      {
+        "id": "0xc45e08926933c340f22b2722f8c960aa2b6bb6c6",
+        "symbol": "MOD",
+        "name": "Mod Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "56604.34891365130947094305736470905"
+      },
+      {
+        "id": "0x67241cbc21d8a73cce1505333dab4b98bd7a04fd",
+        "symbol": "PEAK",
+        "name": "PolyMaxClub",
+        "decimals": "18",
+        "tradeVolumeUSD": "54573.95248608613725720995620432203"
+      },
+      {
+        "id": "0x70b907f3f7231be122100dac51c1995e6804e346",
+        "symbol": "TRT",
+        "name": "True Reflect",
+        "decimals": "6",
+        "tradeVolumeUSD": "53722.92854498495919526110844320184"
+      },
+      {
+        "id": "0x37d87e316cb4e35163881fdb6c6bc0cdba91dc0a",
+        "symbol": "SET",
+        "name": "Stabilize Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "53643.78151596257784940032331437224"
+      },
+      {
+        "id": "0xa573f0a195d589f3551b968dfc9840fd6c919fb5",
+        "symbol": "BABYPangolin",
+        "name": "BABYPangolin",
+        "decimals": "9",
+        "tradeVolumeUSD": "52499.64207252248116481491422566959"
+      },
+      {
+        "id": "0x032d6e9435b1d80114451ff0039558aa32d4bc5f",
+        "symbol": "HI",
+        "name": "HibernatorDAO",
+        "decimals": "18",
+        "tradeVolumeUSD": "51071.07239100244693252564177897887"
+      },
+      {
+        "id": "0x6c6f910a79639dcc94b4feef59ff507c2e843929",
+        "symbol": "aAVAXb",
+        "name": "Ankr Avalanche Reward Earning Bond",
+        "decimals": "18",
+        "tradeVolumeUSD": "49789.07700846255376861755389481273"
+      },
+      {
+        "id": "0xcf8419a615c57511807236751c0af38db4ba3351",
+        "symbol": "AXIAL",
+        "name": "AxialToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "49287.07666753282954460778371470297"
+      },
+      {
+        "id": "0x69d0682f46d94c14c8d9b4835b8462fbd8583a7e",
+        "symbol": "STR",
+        "name": "Saturn",
+        "decimals": "18",
+        "tradeVolumeUSD": "48546.38528014914197620818801863141"
+      },
+      {
+        "id": "0x4a5de0c33f3a23cb9e758d058f96c9980b67af7e",
+        "symbol": "OMEGA",
+        "name": "OmegaFinance Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "47197.31073029975085563131327651248"
+      },
+      {
+        "id": "0x94a58148fa0e29c00ff4be2d57a69107fa91af93",
+        "symbol": "SNOW",
+        "name": "Snow Shiba",
+        "decimals": "18",
+        "tradeVolumeUSD": "46856.69031449303615783234064158133"
+      },
+      {
+        "id": "0xc45f6f17bb077c9eec71b8351c38736c9281d451",
+        "symbol": "THUNDER",
+        "name": "ThunderSwap Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "46723.09606979197346039639490753729"
+      },
+      {
+        "id": "0xc9e8c581d67fe5cc6217b2fa1b2d4d9cecb60fb2",
+        "symbol": "SGEM",
+        "name": "SGEM",
+        "decimals": "18",
+        "tradeVolumeUSD": "45788.49905213910579675641261430523"
+      },
+      {
+        "id": "0x5c1bee0d123fea1239339d0c8f990d53021a3abd",
+        "symbol": "LEAF",
+        "name": "LEAF Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "45595.28117696074642934041499433483"
+      },
+      {
+        "id": "0x1a2e32bb5efb0afe3b3e875f988df700d66aceb5",
+        "symbol": "MONA",
+        "name": "MonacoNFT.io",
+        "decimals": "18",
+        "tradeVolumeUSD": "45576.05401789391278332925732164819"
+      },
+      {
+        "id": "0x06f9dc035b912bfbec7227ff98f385c6ddb1fbcb",
+        "symbol": "8B",
+        "name": "8Bit DeFi",
+        "decimals": "18",
+        "tradeVolumeUSD": "44701.73143032262167623782483281659"
+      },
+      {
+        "id": "0xf84a2ed5e572bca39ad91a4b967950aa3c8ae457",
+        "symbol": "TARD",
+        "name": "TARD",
+        "decimals": "18",
+        "tradeVolumeUSD": "43991.99028962551242710065378891712"
+      },
+      {
+        "id": "0x42cfa3da3148bf9a40fd22641fc153dce00e28ac",
+        "symbol": "BLISS",
+        "name": "BLISS",
+        "decimals": "18",
+        "tradeVolumeUSD": "43838.13238999789859811061185327756"
+      },
+      {
+        "id": "0x45cdaf3fd17bd31d9830fa977159162dd2431683",
+        "symbol": "KIOO",
+        "name": "KIOO",
+        "decimals": "18",
+        "tradeVolumeUSD": "43236.35781857194230746278223853817"
+      },
+      {
+        "id": "0xb4f575f2cd0c92414176d1be89c728ff75f67b0b",
+        "symbol": "HGGY",
+        "name": "Hello Doggy",
+        "decimals": "8",
+        "tradeVolumeUSD": "43177.87522885059068208032192505087"
+      },
+      {
+        "id": "0xb2d522256f4148e3182961dfc7ee28c492bc972f",
+        "symbol": "SHARK",
+        "name": "SharkToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "42407.81669031357459887299393918265"
+      },
+      {
+        "id": "0xdd92dc3128e617414ae0498b7897c746bf69eae0",
+        "symbol": "SNP",
+        "name": "Sniper",
+        "decimals": "18",
+        "tradeVolumeUSD": "42086.09457214912444375895294273137"
+      },
+      {
+        "id": "0xc98a4e8a9c561429e5d255e8cfe7be4d3d0702b8",
+        "symbol": "APX",
+        "name": "Apevax",
+        "decimals": "18",
+        "tradeVolumeUSD": "41163.21997612636172503340924253723"
+      },
+      {
+        "id": "0x9ab07d79e2ab8c62338b3fa8c532753885ee920f",
+        "symbol": "BAGOJEWEL",
+        "name": "Bag O' Jewels",
+        "decimals": "9",
+        "tradeVolumeUSD": "40494.50226792816378189871749548222"
+      },
+      {
+        "id": "0x249848beca43ac405b8102ec90dd5f22ca513c06",
+        "symbol": "CRV.e",
+        "name": "Curve DAO Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "40215.30587485990516525441181854854"
+      },
+      {
+        "id": "0xe1c8f3d529bea8e3fa1fac5b416335a2f998ee1c",
+        "symbol": "ELK",
+        "name": "Elk",
+        "decimals": "18",
+        "tradeVolumeUSD": "40029.52053090091084210760841504511"
+      },
+      {
+        "id": "0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f",
+        "symbol": "SNRW",
+        "name": "SNRW.e",
+        "decimals": "18",
+        "tradeVolumeUSD": "39760.28347387935265583720661727022"
+      },
+      {
+        "id": "0x7c01d486deb4d30f7698724e9f335705b427cdf6",
+        "symbol": "KATANA",
+        "name": "Samurai Finance",
+        "decimals": "18",
+        "tradeVolumeUSD": "39062.58523994253810409262027397068"
+      },
+      {
+        "id": "0x23ac41320e9850ea70e38b4490e017371d148f95",
+        "symbol": "SD",
+        "name": "SamuraiDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "39047.2600492262864539972266656633"
+      },
+      {
+        "id": "0xb05d747b64c58fbf2980a4f17243d5a42ea4094e",
+        "symbol": "BEE",
+        "name": "BeetsDAO",
+        "decimals": "18",
+        "tradeVolumeUSD": "37418.78546912720177043943172384633"
+      },
+      {
+        "id": "0x90fbe9dfe76f6ef971c7a297641dfa397099a13e",
+        "symbol": "ATL",
+        "name": "Atlantis Loans",
+        "decimals": "18",
+        "tradeVolumeUSD": "37352.74174685046568576431560511211"
+      },
+      {
+        "id": "0x0b6541e373088392c5685f9f9a7077c3f10d4e4f",
+        "symbol": "SNTA",
+        "name": "Santa",
+        "decimals": "18",
+        "tradeVolumeUSD": "34818.09428492719665831351661851905"
+      },
+      {
+        "id": "0xd285c7e41ed96f01d75d68e9f07095f8a3d85b2d",
+        "symbol": "AVVO",
+        "name": "avvo.xyz",
+        "decimals": "18",
+        "tradeVolumeUSD": "34702.18786110669547858862298651243"
+      },
+      {
+        "id": "0xe460f3e0adc58357ea5e3ac1d839611dee826354",
+        "symbol": "SS",
+        "name": "SecretSanta DAO",
+        "decimals": "18",
+        "tradeVolumeUSD": "34121.0553885085728247030850054683"
+      },
+      {
+        "id": "0x3cc4cbf490a8ac5dd4c9ea8fc57e29407d56a7ce",
+        "symbol": "FINGER",
+        "name": "FingerprintsDAO",
+        "decimals": "18",
+        "tradeVolumeUSD": "32496.58774316909257325262233908243"
+      },
+      {
+        "id": "0x4cb6f57297bb3eb8094f9a2b5d3eeda9da887fab",
+        "symbol": "MiniAvax",
+        "name": "@MiniAvalanche",
+        "decimals": "9",
+        "tradeVolumeUSD": "32312.64104874751428921300440122066"
+      },
+      {
+        "id": "0xd5de5aac5e3fc45e77d33078ef036b417c681dce",
+        "symbol": "SAMO",
+        "name": "AVAX SAMO",
+        "decimals": "9",
+        "tradeVolumeUSD": "32283.70016830204073670101528458741"
+      },
+      {
+        "id": "0x020ef96c76a225fc0151c191b2a15accc915b68c",
+        "symbol": "WOUF",
+        "name": "WOUF",
+        "decimals": "18",
+        "tradeVolumeUSD": "31754.63159925793640300467916229445"
+      },
+      {
+        "id": "0xb77cdfdfd5117cbfa1a0d20de3f1675fe4f76ba1",
+        "symbol": "DGold",
+        "name": "Dragon Gold Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "29829.7543956954005095617391500495"
+      },
+      {
+        "id": "0x86b3f23b6e90f5bbfac59b5b2661134ef8ffd255",
+        "symbol": "LAUNCH",
+        "name": "Super Launcher",
+        "decimals": "18",
+        "tradeVolumeUSD": "29776.74402319663906515921049141792"
+      },
+      {
+        "id": "0x993163cad35162fb579d7b64e6695cb076ef5064",
+        "symbol": "MM",
+        "name": "Million",
+        "decimals": "18",
+        "tradeVolumeUSD": "29286.89447451748663717238240805719"
+      },
+      {
+        "id": "0x9ef758ac000a354479e538b8b2f01b917b8e89e7",
+        "symbol": "XDO",
+        "name": "xDollar",
+        "decimals": "18",
+        "tradeVolumeUSD": "28771.92030784620782436286823117752"
+      },
+      {
+        "id": "0xf38747ee178ff28e23cd4855d18d3274559f0f6a",
+        "symbol": "ADFI",
+        "name": "AvaxDFI",
+        "decimals": "18",
+        "tradeVolumeUSD": "28631.71384593996022507278189810345"
+      },
+      {
+        "id": "0x98a6f922d405d25bdc965b1c23d1ebb31dfa8000",
+        "symbol": "ROCK",
+        "name": "AVA ROCK",
+        "decimals": "9",
+        "tradeVolumeUSD": "27858.89522206784635974342234055291"
+      },
+      {
+        "id": "0x9a3c21d96177252b4c7c90f8af1d4fd7bebd6867",
+        "symbol": "FROMAGE",
+        "name": "Fromage",
+        "decimals": "18",
+        "tradeVolumeUSD": "27309.60484247169470160848226883668"
+      },
+      {
+        "id": "0x2aa013b115e52903064faa31fea203f3b47785c5",
+        "symbol": "AVA",
+        "name": "Avaware",
+        "decimals": "18",
+        "tradeVolumeUSD": "26792.48180900186524820726222213699"
+      },
+      {
+        "id": "0x4e82834adcb199060284a1bcaee718abe8a87995",
+        "symbol": "EMOJI",
+        "name": "EmoJiSwap.co Token",
+        "decimals": "6",
+        "tradeVolumeUSD": "26386.61471294086642889090019096734"
+      },
+      {
+        "id": "0x917c11c79fc9d1421483e87fba4105d01f039793",
+        "symbol": "TGD",
+        "name": "ThunderGodDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "25921.31758986547069757733215163316"
+      },
+      {
+        "id": "0x09ad4a1746ab9ecc96bb67d919de3c6b54cc879f",
+        "symbol": "GF",
+        "name": "Good Fire",
+        "decimals": "18",
+        "tradeVolumeUSD": "25356.49457782443125895821075051064"
+      },
+      {
+        "id": "0x1aff23615200d09965c3c810f213e9e193d75ffc",
+        "symbol": "AXAVA",
+        "name": "ALIENXAVA",
+        "decimals": "18",
+        "tradeVolumeUSD": "24806.57448718081406254622670859143"
+      },
+      {
+        "id": "0x82267c56b05aff3742b997412b3aae32f9a087ae",
+        "symbol": "RED",
+        "name": "RedTriangleDAO",
+        "decimals": "18",
+        "tradeVolumeUSD": "24405.12835336864965707119132701093"
+      },
+      {
+        "id": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
+        "symbol": "APE-X",
+        "name": "Ape-X",
+        "decimals": "9",
+        "tradeVolumeUSD": "23181.36893994637074728514237146888"
+      },
+      {
+        "id": "0xe6780cc551df332ce7a05a6f59fb2a26e4b0f9ad",
+        "symbol": "JEWELBAGZ",
+        "name": "Bagz O Jewels",
+        "decimals": "9",
+        "tradeVolumeUSD": "22734.71563614397762952174065281392"
+      },
+      {
+        "id": "0xe9d00cbc5f02614d7281d742e6e815a47ce31107",
+        "symbol": "CRACK",
+        "name": "Crack.Fi",
+        "decimals": "9",
+        "tradeVolumeUSD": "21986.6044940387745624287591638012"
+      },
+      {
+        "id": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
+        "symbol": "HON",
+        "name": "HonToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "21872.34604670817123125488172233797"
+      },
+      {
+        "id": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+        "symbol": "MAI",
+        "name": "Mai Stablecoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "21423.45353146078052753856368286677"
+      },
+      {
+        "id": "0x3e76be9a8d9e4390aa16a1c58e6b0b2b5b15bab8",
+        "symbol": "AMMO",
+        "name": "Ammo Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "20328.69544690320331147147111577917"
+      },
+      {
+        "id": "0xa76f6c51b2cf38d1f0c9df89d322ea111fc6c1b2",
+        "symbol": "WZC",
+        "name": "WizCoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "19088.71285741328510677572348069019"
+      },
+      {
+        "id": "0x8c6c6b72c130ea835fa526e4217b915238152e04",
+        "symbol": "AVAKISHU",
+        "name": "AVAX KISHU",
+        "decimals": "9",
+        "tradeVolumeUSD": "18856.83409199622089493049434829099"
+      },
+      {
+        "id": "0xecf4e40e564a1de686d89142a0963d908579daaa",
+        "symbol": "AVAO",
+        "name": "AvaOne",
+        "decimals": "18",
+        "tradeVolumeUSD": "18698.60382394068565787759236239093"
+      },
+      {
+        "id": "0xab2c1b89b4ec5503d0d3bbdd3e7bbf8564d5d0a2",
+        "symbol": "THENA",
+        "name": "EternalFinance Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "18450.70169387454258569247434258924"
+      },
+      {
+        "id": "0x0fad8958a43d18a0f02f75081945ce6226390a72",
+        "symbol": "Tank",
+        "name": "Tank",
+        "decimals": "18",
+        "tradeVolumeUSD": "18339.96057152231514951403270619068"
+      },
+      {
+        "id": "0xd3d6bef780f0e7a3f6fa3444262e1ab1c4ff6dc9",
+        "symbol": "HUG",
+        "name": "Hug DAO",
+        "decimals": "18",
+        "tradeVolumeUSD": "18308.4439764051201702638795154327"
+      },
+      {
+        "id": "0x093783055f9047c2bff99c4e414501f8a147bc69",
+        "symbol": "ALOT",
+        "name": "Dexalot Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "18121.1614702580616152210909652003"
+      },
+      {
+        "id": "0xeb4e507a250f99b00a9ec0677156b250ae719eaa",
+        "symbol": "TAO$",
+        "name": "TAOMONEY",
+        "decimals": "18",
+        "tradeVolumeUSD": "18117.50536018836193697868463095913"
+      },
+      {
+        "id": "0x6a0acda94c38df6dc3efb1b28446172d2ba9af2c",
+        "symbol": "BULLDOG",
+        "name": "BULLDOG",
+        "decimals": "18",
+        "tradeVolumeUSD": "17988.23003200686465865920542084898"
+      },
+      {
+        "id": "0xd875dad15fa04d052dfd4709b0a60be325a1c5ae",
+        "symbol": "1E",
+        "name": "Earth Defi One Earth",
+        "decimals": "18",
+        "tradeVolumeUSD": "17731.28133002217168976163913137864"
+      },
+      {
+        "id": "0x7d394e498d110c868509c40de4cb6721c06f0ec9",
+        "symbol": "aMAX",
+        "name": "AvalancheMAX",
+        "decimals": "9",
+        "tradeVolumeUSD": "17259.10428318507079254313135716093"
+      },
+      {
+        "id": "0x625fc9bb971bb305a2ad63252665dcfe9098bee9",
+        "symbol": "PLEB",
+        "name": "PlebToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "17188.02741356509451307453096246042"
+      },
+      {
+        "id": "0xf9f2f7b26e865ccc89fc79f553ed3158dbd442c5",
+        "symbol": "PUG",
+        "name": "PUG",
+        "decimals": "18",
+        "tradeVolumeUSD": "17032.06891812780261197151934819566"
+      },
+      {
+        "id": "0x7fb049b65875155e1f7a335dc8a9f47516dce745",
+        "symbol": "XOGE",
+        "name": "Xogecoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "15797.14837461703198824811403201667"
+      },
+      {
+        "id": "0x3ca64d2e92aa45b1716ec34813dde2547c2fac07",
+        "symbol": "ROACH",
+        "name": "Cockroach",
+        "decimals": "18",
+        "tradeVolumeUSD": "15644.36252212589770692360480748692"
+      },
+      {
+        "id": "0xf27c1ad64ff5af415df21c0d67a6adef7260dd5e",
+        "symbol": "ODD",
+        "name": "OHMdragonsDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "15362.66843359887769487822602682466"
+      },
+      {
+        "id": "0xf79712a9336d5eee8fe40d681fe0e5f21a3facc8",
+        "symbol": "MEMO",
+        "name": "Metamonsterland",
+        "decimals": "9",
+        "tradeVolumeUSD": "15115.9615729188745774075879971229"
+      },
+      {
+        "id": "0x9406d81c8585f8013f4058acefa324016e8b4cc0",
+        "symbol": "NPT",
+        "name": "Neptune",
+        "decimals": "18",
+        "tradeVolumeUSD": "14651.21000702308424603767605010922"
+      },
+      {
+        "id": "0x70e75b18dcba700c5d3400137bdc292900666e47",
+        "symbol": "IS",
+        "name": "Ice Skate",
+        "decimals": "18",
+        "tradeVolumeUSD": "14606.25034368920488524819647187957"
+      },
+      {
+        "id": "0xa0a924dcb97a597351a5c3787234b706845e7510",
+        "symbol": "🔥",
+        "name": "Bonfire",
+        "decimals": "11",
+        "tradeVolumeUSD": "14478.23818974340877253103638924316"
+      },
+      {
+        "id": "0xf96204dcb558b5a9e3fba66425640137538af2b5",
+        "symbol": "GOD",
+        "name": "GoldenOlympusDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "14440.59255120021178427193459784723"
+      },
+      {
+        "id": "0x612b6f08d7a149a668ef9ab16ea3147969b2e85b",
+        "symbol": "ORO",
+        "name": "ORO Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "14322.60086404526688818417614267975"
+      },
+      {
+        "id": "0x82a35d1526ed8bff28448091273e1b17bf2e1271",
+        "symbol": "COUPv2",
+        "name": "COUPv2",
+        "decimals": "18",
+        "tradeVolumeUSD": "14136.66917770196970035584301689119"
+      },
+      {
+        "id": "0x514089b2a27f43a562b06c587fa90dcb7b10e4b6",
+        "symbol": "sAKITA",
+        "name": "stealth AKITA",
+        "decimals": "9",
+        "tradeVolumeUSD": "13550.27968787489912772290648974858"
+      },
+      {
+        "id": "0x46c54b16af7747067f412c78ebadae203a26ada0",
+        "symbol": "GRT",
+        "name": "Graph Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "13388.1692328831665555433478477801"
+      },
+      {
+        "id": "0xeb9b53ecb17e66ed9af28299c5e22844142529bd",
+        "symbol": "VD",
+        "name": "VictoryDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "12853.21231627843505659770353371304"
+      },
+      {
+        "id": "0xd2300efd166709a253ec2463f87b13c57ff78905",
+        "symbol": "AegisDAO",
+        "name": "AegisDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "12848.31061251281737632580444489481"
+      },
+      {
+        "id": "0xc6c6e61172f68004bdbc911b56d3e94dd4285803",
+        "symbol": "SEFI",
+        "name": "ShibAvax",
+        "decimals": "18",
+        "tradeVolumeUSD": "12781.46541620632297596574262797541"
+      },
+      {
+        "id": "0xe2037ee8b428d2b1defd8b71252580f3205e54ee",
+        "symbol": "EZMOON",
+        "name": "EZMoon",
+        "decimals": "9",
+        "tradeVolumeUSD": "11342.77474262115561854370689272429"
+      },
+      {
+        "id": "0x4f71cf7943a46ae21d4a3c12daaaf06ea3dbdc80",
+        "symbol": "ACake",
+        "name": "Avax Cake",
+        "decimals": "9",
+        "tradeVolumeUSD": "11294.38810264122400280773125247762"
+      },
+      {
+        "id": "0x1ccca1ce62c62f7be95d4a67722a8fdbed6eecb4",
+        "symbol": "LAIKA",
+        "name": "LaikaProtocol",
+        "decimals": "9",
+        "tradeVolumeUSD": "11270.24075914790330803922301520357"
+      },
+      {
+        "id": "0x2841a8a2ce98a9d21ad8c3b7fc481527569bd7bb",
+        "symbol": "SL3",
+        "name": "SL3",
+        "decimals": "9",
+        "tradeVolumeUSD": "11228.82514037371751620216860258907"
+      },
+      {
+        "id": "0x1330b3e1d024e117d43a0967b0eb7c39b7e307f1",
+        "symbol": "KANGAL",
+        "name": "Kangal Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "11180.97790871189707060049635590665"
+      },
+      {
+        "id": "0xa12bca59c9e6f058f15cca477c0080d03ec49aa2",
+        "symbol": "TIGER",
+        "name": "TigerSwap",
+        "decimals": "18",
+        "tradeVolumeUSD": "11134.63554727108592805638826891687"
+      },
+      {
+        "id": "0x7e19a6ea2a132e4ef51ac5928ae6c3bafbcf8ada",
+        "symbol": "IMBA",
+        "name": "Imba Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "11064.10299347422336341629615391933"
+      },
+      {
+        "id": "0xb2f9a4380ebca7e057db0c4572b7ac90c353ce7d",
+        "symbol": "COUP",
+        "name": "COUP",
+        "decimals": "18",
+        "tradeVolumeUSD": "10844.84882335089613274802884160625"
+      },
+      {
+        "id": "0x59beb2188db00108a6affdf5a949a21df01a0eec",
+        "symbol": "AVAXOLOT",
+        "name": "@Avaxolot",
+        "decimals": "18",
+        "tradeVolumeUSD": "10731.02209697791255503774812110496"
+      },
+      {
+        "id": "0xed4bb36b88339fd2906ab4efd6fbfdf14dea28d5",
+        "symbol": "CANDY",
+        "name": "CANDY",
+        "decimals": "18",
+        "tradeVolumeUSD": "10524.1373748932118417048889088057"
+      },
+      {
+        "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+        "symbol": "wMEMO",
+        "name": "Wrapped MEMO",
+        "decimals": "18",
+        "tradeVolumeUSD": "10349.83114771685921605698668627506"
+      },
+      {
+        "id": "0xdc0bfd41eb675ef97cf57567ebd97070c3c75192",
+        "symbol": "PUSH",
+        "name": "PushToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "10298.00119318898855606040128220087"
+      },
+      {
+        "id": "0x334c2b4d444010c172c2172e0b1a9a8757f82fcd",
+        "symbol": "NFTL",
+        "name": "NFT Lottery Ticket",
+        "decimals": "18",
+        "tradeVolumeUSD": "10296.69577040076350238604159046175"
+      },
+      {
+        "id": "0x04545b7972fd1a1e65a35226088dc37faf246fe5",
+        "symbol": "SNOW",
+        "name": "Snowman Token",
+        "decimals": "9",
+        "tradeVolumeUSD": "10183.6691163843452049851080813602"
+      },
+      {
+        "id": "0x1fcfe0834ca3fa5185abf1a52583f46c8f5ab3c5",
+        "symbol": "NAR",
+        "name": "Narwhale",
+        "decimals": "18",
+        "tradeVolumeUSD": "10082.73352155050845606702505324073"
+      },
+      {
+        "id": "0x93fb731883787e36dac7d86d500725e1d1b39f71",
+        "symbol": "DOGEHR",
+        "name": "Doge Hashrate",
+        "decimals": "18",
+        "tradeVolumeUSD": "9862.721091056852515025321352664867"
+      },
+      {
+        "id": "0xa91d27fee385c658652123c9b4b2b1b44965d13b",
+        "symbol": "WOLF",
+        "name": "WolfFinance",
+        "decimals": "18",
+        "tradeVolumeUSD": "9664.532435602051115750984203164243"
+      },
+      {
+        "id": "0xb2c9300b21694745bd04f591e0802d02a99486b5",
+        "symbol": "OM",
+        "name": "OlympMas",
+        "decimals": "9",
+        "tradeVolumeUSD": "9456.835085704229363781279989011239"
+      },
+      {
+        "id": "0x8d43c6919c9339009e1d36cf87ad7016462a9332",
+        "symbol": "MBDA",
+        "name": "MiniBabyDogeAvax",
+        "decimals": "9",
+        "tradeVolumeUSD": "9247.186998078547949887306619485862"
+      },
+      {
+        "id": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+        "symbol": "SYN",
+        "name": "Synapse",
+        "decimals": "18",
+        "tradeVolumeUSD": "9059.831480934282779450907684155842"
+      },
+      {
+        "id": "0x8cd6aa872abdcc35a3285ada6b7b5de03b4abdf5",
+        "symbol": "AvaxDoge",
+        "name": "Avax Doge",
+        "decimals": "9",
+        "tradeVolumeUSD": "8918.121848968749206157484723515197"
+      },
+      {
+        "id": "0x6278a760fb9daada79b5d79841cbff22ad7bafe2",
+        "symbol": "LILY",
+        "name": "Lily Swap",
+        "decimals": "9",
+        "tradeVolumeUSD": "8807.150284742560430603738512434912"
+      },
+      {
+        "id": "0xac66f5da576c5505724fa09506fa4e56e624efe1",
+        "symbol": "LAMAVAX",
+        "name": "@LamaVax",
+        "decimals": "18",
+        "tradeVolumeUSD": "8706.78767686510037900031118908483"
+      },
+      {
+        "id": "0xe54eb2c3009fa411bf24fb017f9725b973ce36f0",
+        "symbol": "1INCH",
+        "name": "1INCH Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "8532.523990223491079056021350253842"
+      },
+      {
+        "id": "0x7ecd66b1bfea31aca0c3120772b6da628d8ac79c",
+        "symbol": "GAMBIT",
+        "name": "Gambit Coin",
+        "decimals": "18",
+        "tradeVolumeUSD": "8215.813566536857136987539564830369"
+      },
+      {
+        "id": "0x72fcaacb1cbe055def94fb5d8ba838a05511847d",
+        "symbol": "ShitDoge ",
+        "name": "ShitDoge ",
+        "decimals": "9",
+        "tradeVolumeUSD": "8150.144528697224282822949118982789"
+      },
+      {
+        "id": "0xdcea074715f990fb4a1737e7a8ad33df804a88f1",
+        "symbol": "MKC",
+        "name": "MonkeyCoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "8106.249453167217945886463733355094"
+      },
+      {
+        "id": "0x87aec584cb5f6051ecd26b6a0f2f5eba875832cc",
+        "symbol": "AvaxFeg",
+        "name": "@AvaxFeg ",
+        "decimals": "9",
+        "tradeVolumeUSD": "7669.172763430041514036675030956705"
+      },
+      {
+        "id": "0x9af180947f5126f5d266035af638bac19f8ddb6c",
+        "symbol": "AVAM",
+        "name": "AVAMOON",
+        "decimals": "18",
+        "tradeVolumeUSD": "7588.47506703241370171608971319996"
+      },
+      {
+        "id": "0x1b8bf3cd04f98e65ae968242055f4e92061e09af",
+        "symbol": "SquidGame",
+        "name": "SquidGameDAO",
+        "decimals": "9",
+        "tradeVolumeUSD": "7571.412501111779068656104691522995"
+      },
+      {
+        "id": "0x761a6dd57267b2a6d25ecaad43bdd0c04730028b",
+        "symbol": "GSHARE",
+        "name": "GSHARE Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "7307.841111694340186487491729288224"
+      },
+      {
+        "id": "0x8e05b136c32dd2f2ecd3eda6ae0e104dc3d2f2bf",
+        "symbol": "NY",
+        "name": "nyanheroes.com",
+        "decimals": "18",
+        "tradeVolumeUSD": "7251.80617028825882380817036334358"
+      },
+      {
+        "id": "0x8ba779b37e0a6121629135ae0f77a4a2286724a8",
+        "symbol": "SLURP",
+        "name": "SlurpCoin",
+        "decimals": "9",
+        "tradeVolumeUSD": "7217.284288094454906989562790498626"
+      },
+      {
+        "id": "0x3ee60a4572dd5e4487040aa36e2efab26b557de6",
+        "symbol": "AVAXFIRE",
+        "name": "AVAXFIRE",
+        "decimals": "9",
+        "tradeVolumeUSD": "7209.384032109624580433201798889385"
+      },
+      {
+        "id": "0x2f583ef768f9cea757e30b3d54247a16c8450d76",
+        "symbol": "SsX",
+        "name": "SafestarX",
+        "decimals": "18",
+        "tradeVolumeUSD": "7168.695977728569027095743275355393"
+      },
+      {
+        "id": "0xca220f1e486a8e35d6f1dcd62073ad8dd04659ed",
+        "symbol": "GLDB",
+        "name": "BiAltin",
+        "decimals": "6",
+        "tradeVolumeUSD": "7125.683261465205822460150324522616"
+      },
+      {
+        "id": "0x4cee25c8bc5f0bbeac654ed7706f719b24d6adf4",
+        "symbol": "MiniAvax",
+        "name": "@MiniAvalanche",
+        "decimals": "9",
+        "tradeVolumeUSD": "6945.747521932616480610950332627911"
+      },
+      {
+        "id": "0xbc5dca8e80c83fe91a8258bdd790dc421ccc06bd",
+        "symbol": "CONE",
+        "name": "Cone's Cone Coin",
+        "decimals": "18",
+        "tradeVolumeUSD": "6893.205488890143992707649922703924"
+      },
+      {
+        "id": "0xa1219fd9d751073014d9e56bd5ea94392838c3e8",
+        "symbol": "EveX",
+        "name": "@EverAvax",
+        "decimals": "9",
+        "tradeVolumeUSD": "6885.457539217380608665629015027049"
+      },
+      {
+        "id": "0x0c6c3641f83b66f72a374fac75149574a686cd8b",
+        "symbol": "ANT",
+        "name": "Ant Token",
+        "decimals": "18",
+        "tradeVolumeUSD": "6840.091777462217773541848479477787"
+      },
+      {
+        "id": "0x18820540e8b713906468cc3cb68b8a57e35c0e0a",
+        "symbol": "NAKAMOTO",
+        "name": "Nakamoto",
+        "decimals": "18",
+        "tradeVolumeUSD": "6834.883513891431648088365416551894"
+      },
+      {
+        "id": "0x25db9436c3b2f04c532cb3eaed3143e0f59087b3",
+        "symbol": "AVAXDOGE",
+        "name": "AvaxDoge",
+        "decimals": "18",
+        "tradeVolumeUSD": "6803.851073392571307015365618252038"
+      },
+      {
+        "id": "0x54b17f4f55bd93efbe5f91a3a4619619bc7dbc33",
+        "symbol": "shit",
+        "name": "shitcoin",
+        "decimals": "18",
+        "tradeVolumeUSD": "6792.021248520573588500254909704244"
+      },
+      {
+        "id": "0xa0ebcb85157f59684cf243dc8057184f2bba5b9b",
+        "symbol": "ALGOR",
+        "name": "AlgorToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "6690.165221139965390516347175136816"
+      },
+      {
+        "id": "0xd81d45e7635400ddd9c028839e9a9ef479006b28",
+        "symbol": "EMBR",
+        "name": "EmbrToken",
+        "decimals": "18",
+        "tradeVolumeUSD": "6686.950254601775748952172448676694"
+      },
+      {
+        "id": "0xae94ab71d5d1c289dd94e9099ea9494917bb2d0f",
+        "symbol": "LILY",
+        "name": "Lily Swap",
+        "decimals": "9",
+        "tradeVolumeUSD": "6666.457944602038911764643079877326"
+      }
+    ]
+  }
+}
