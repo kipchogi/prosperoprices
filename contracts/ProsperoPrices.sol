@@ -19,7 +19,7 @@ contract ProsperoPrices is Initializable {
   address private constant ETHEREUM_CHAINLINK = 0x976B3D034E162d8bD72D6b9C989d545b839003b0;
   uint256 private constant NUMBER_OF_CHAINLINK_HELPER_TOKENS=3;
   uint256 public constant USD_SCALE   =     1000000000000000000; // same as 1 eth
-  uint256 private constant CHAINLINK_SCALE_DIFF = 10; // CHAINLINK IS 6 DECIMALS WHILE OUR USD SCALE IS 16
+  uint256 private constant CHAINLINK_SCALE_DIFF = 10; 
   address private constant PANGOLIN_ROUTER_ADDRESS=0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106;
   address private constant PANGOLIN_FACTORY_ADDRESS=0xefa94DE7a4656D787667C749f7E1223D71E9FD88;
   uint256 private constant MINIMUM_LIQUIDITY_REQUIRED = 1000;//in USD
