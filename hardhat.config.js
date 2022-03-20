@@ -46,10 +46,6 @@ module.exports = {
             url: 'https://api.avax.network/ext/bc/C/rpc',
             enabled: true
       }
-    },
-    mainnet: {
-      url: 'https://api.avax.network/ext/bc/C/rpc',
-      chainId: 43114
     }
   }
 };

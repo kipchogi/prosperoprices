@@ -20,10 +20,9 @@ var prosperoPricesAddress;
 //Price Feeds:
 //https://docs.chain.link/docs/avalanche-price-feeds/
 before(async function () {
-  console.log('Deploying ProsperoPrices and contract for checking gas cost.')
+  console.log('Deploying ProsperoPrices.')
   accounts = await ethers.getSigners();
   await deployProsperoPrices();
-  await deloyProsperoPriceGasCost();
 
 });
 
@@ -106,55 +105,8 @@ async function printGasCosts(){
   }
 }
 
-async function getGasCostOfCallingPrices(tokenAddress){
-  var prosperoPricesGasCost = new web3.eth.Contract(
-    ProsperoPricesGasCostJson.abi,
-    prosperoPricesGasCostAddress
-  );
-  var web3Tx = await prosperoPricesGasCost.methods.getGasCost(
-    prosperoPricesAddress,
-    tokenAddress
-  ).call();
-}
 
-function formatUsd(amount){
-  //var bal16=await formatBalanceTo16Decimals(amount, tokenAddress);
-  var usd = amount/(USD_SCALE)
-  return usd;
-}
 
-async function formatBalanceTo16Decimals(amount, tokenAddress){
-  tokenAddress=tokenAddress.toLowerCase();
-  var bnAmount = BigNumber(amount+"");
-
-  //console.log("DApp.tokens--"+JSON.stringify(DApp.tokens,null,2))
-  for (var i =0;i<tokens.length;i++){
-    var thisToken = tokens[i]
-    var address = (thisToken.address).toLowerCase()
-    if (address == tokenAddress){
-      //console.log("matched address");
-      //console.log("amt:"+bnAmount);
-      var dec = BigNumber((tokens[i]['decimals'])+"");
-      //console.log("dec:"+dec);
-      var bnTen = BigNumber(10+"");
-      var multiplier = bnTen.exponentiatedBy(dec);
-      multiplier = BigNumber(multiplier+"");
-      var newAmt = bnAmount.dividedBy(multiplier);
-      return newAmt;
-    }
-  }
-
-  var dec = await getDecimals(tokenAddress)
-  var bnTen = BigNumber(10+"");
-  //console.log("bt:"+bnTen)
-  var multiplier = bnTen.exponentiatedBy(dec);
-  //console.log("multiplier:"+multiplier)
-
-  multiplier = BigNumber(multiplier+"");
-  var newAmt = bnAmount.dividedBy(multiplier);
-  return newAmt;
-
-}
 
 async function getDecimals(tokenAddress){
   var tokenInst= new web3.eth.Contract(
@@ -197,40 +149,7 @@ async function getPrice(tokenAddress){
   return price;
 
 }
-async function deloyProsperoPriceGasCost(){
-  var web3Tx;
-  var cumulativeGasUsed;
-  var effectiveGasPrice;
-  var gasUsed;
 
-  var ProsperoPricesGasCostFactory = await ethers.getContractFactory("ProsperoPricesGasCost");
-  prosperoPricesGasCost = new web3.eth.Contract(
-    ProsperoPricesGasCostJson.abi
-  );
-  prosperoPricesGasCost.defaultAccount=accounts[0].address
-  prosperoPricesGasCost = await prosperoPricesGasCost.deploy(
-    {
-      data:ProsperoPricesGasCostFactory.bytecode
-    }
-  ).send({
-    from: accounts[0].address
-  }).on('error', function(error, receipt){
-    console.log("error:"+error)
-  })
-  .on('transactionHash', function(transactionHash){
-    //console.log("transactionhash:"+transactionHash)
-  })
-  .on('receipt', function(receipt){
-    prosperoPricesGasCostAddress=receipt.contractAddress;
-    //console.log("prosperoPricesGasCostAddress:"+prosperoPricesGasCostAddress)
-    cumulativeGasUsed=receipt.cumulativeGasUsed;
-    effectiveGasPrice=receipt.effectiveGasPrice
-    //console.log(receipt.contractAddress) // contains the new contract address
-  })
-  .on('confirmation', function(confirmationNumber, receipt){
-    //console.log("receipt conf:"+JSON.stringify(receipt,null,2))
-  })
-}
 async function deployProsperoPrices(){
   var web3Tx;
   var cumulativeGasUsed;
@@ -266,36 +185,16 @@ async function deployProsperoPrices(){
   })
   //gasUsed = await calculateGasEstimate(cumulativeGasUsed, effectiveGasPrice);
   //console.log("gasUsed:"+JSON.stringify(gasUsed,null,2))
-  var chainLinkPriceFeeds=[]
-  var tokenAddressToPriceFeeds=[]
-  for (var i =0;i<tokens.length;i++){
-    if (tokens[i].hasOwnProperty('chainlinkAddress')){
-      chainLinkPriceFeeds.push(tokens[i].chainlinkAddress)
-      tokenAddressToPriceFeeds.push(tokens[i].address)
-    }else{
-    }
-  }
-  prosperoPrices = new web3.eth.Contract(
-    ProsperoPricesJson.abi,
-    prosperoPricesAddress
-  );
-  var web3Tx = await prosperoPrices.methods.initialize(
-    tokenAddressToPriceFeeds,
-    chainLinkPriceFeeds
-  ).send({
-    from: accounts[0].address
-  }).on('error', function(error, receipt){
-    console.log("error:"+error)
-  })
-  .on('transactionHash', function(transactionHash){
-  })
-  .on('receipt', function(receipt){
-  })
-  .on('confirmation', function(confirmationNumber, receipt){
-  })
 
   USD_SCALE = await prosperoPrices.methods.USD_SCALE().call();
 }
+
+function formatUsd(amount){
+  //var bal16=await formatBalanceTo16Decimals(amount, tokenAddress);
+  var usd = amount/(USD_SCALE)
+  return usd;
+}
+
 
 //Only get prices for tokens NOT on chainlink and have market cap > 0;
 async function calculateGasEstimate (gasEstimate, gasPriceToUse){
