@@ -17,7 +17,7 @@ npx hardhat test
 
 ##### Gas Costs
 
-The gas costs of using ProsperoPrices is similar to the gas to use Chainlink price feeds.  When a price could not be found the gas was higher because it iterated through several helper tokens unsuccessfully  
+The gas costs of using ProsperoPrices is similar to the gas to use Chainlink price feeds.  When a price could not be found the gas was higher because it iterated through several helper tokens unsuccessfully.
 <br />In Gwei:
 <br />Gas Cost Calling Chainlink:	        24433
 <br />Gas Cost With One Helper Token:	    61031
