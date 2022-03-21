@@ -5,7 +5,7 @@ In [our tests](https://docs.google.com/spreadsheets/d/1kClFiDkgKXLLOUv6JzuBbLLb9
 
 The contract is deployed at this address: [0x45f0154cfB256e662C457Aaf3E073254F41A0994](https://snowtrace.io/address/0x45f0154cfB256e662C457Aaf3E073254F41A0994)
 
-The current scale of pricing is a constant determined by USD_SCALE.  If you change this value you must also change the value of CHAINLINK_SCALE_DIFF.  The scale of Chainlink is currently 8 decimals.  To raise the minimum liquidity required to deem a pool a ‘safe’ reference point for price is determined by the constant MINIMUM_LIQUIDITY_REQUIRED
+The current scale of pricing is a constant determined by USD_SCALE.  If you change this value you must also change the value of CHAINLINK_SCALE_DIFF.  The scale of Chainlink is currently 8 decimals.  To raise the minimum liquidity required to deem a pool a safe reference point for price is determined by the constant MINIMUM_LIQUIDITY_REQUIRED.
 
 To try our contract in action go here:
 [https://prospero-307218.uc.r.appspot.com/testprices/](https://prospero-307218.uc.r.appspot.com/testprices/)
